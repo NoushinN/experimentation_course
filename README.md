@@ -6,6 +6,9 @@
 A 6-part, EW2 Special Edition Learning Event Series, introducing the first edition of the  Experimentation Course for the Government of Canada. 
 This page houses the content material for module 2: Initiating an Experiment.
  
+ ## Who
+ 
+Experimentation Works (EW) working group's second cohort is a Government-of-Canada initiative to build public servants’ capacity in experimentation skills and practice through a learning-by-doing model that supports and showcases small-scale experiments in the open. Additional information about this initiative can be found here.
 
 ## When
 
