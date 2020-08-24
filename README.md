@@ -8,7 +8,7 @@ This page houses the content material for module 2: Initiating an Experiment.
  
  ## Who
  
-Experimentation Works (EW) working group's second cohort is a Government-of-Canada initiative to build public servants’ capacity in experimentation skills and practice through a learning-by-doing model that supports and showcases small-scale experiments in the open. Additional information about this initiative can be found here.
+[Experimentation Works (EW)](https://www.canada.ca/en/government/publicservice/modernizing/experimentation-works.html) working group's second cohort is a Government-of-Canada initiative to build public servants’ capacity in experimentation skills and practice through a learning-by-doing model that supports and showcases small-scale experiments in the open. Additional information about this initiative can be found [here](https://medium.com/@exp_works/experimentation-works-2-2081cb7f49ab).
 
 ## When
 
