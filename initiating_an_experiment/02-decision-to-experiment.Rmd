@@ -1,0 +1,57 @@
+# Decision to experiment
+
+##  Deciding to experiment
+- Do you need to experiment? Why or why not?
+- Find a behaviour or object to test and think short term
+- Keep it simple
+- Start with a proof-of-concept test
+- Have control and treatment groups (e.g. randomization)
+- When results are in slice the data 
+- Try out of the box thinking
+- Measure everything that matters
+- Look for natural experiments
+
+##  Steps involved in designing an experiment
+
+### Step 1: Choose a topic
+- Ask yourself the following question: 1. What do I find interesting about the subject? 2. What is known about the subject? 3. What is missing and the gaps?
+
+### Step 2: Narrow the topic 
+- Ask yourself the following questions: 1. What do you need to know more about on the topic? 2. Are you interested in social, political, economic, gender, religious issues related to your topic? (General example) - Find a "slant" on your topic; 
+- Will the results reveal something new or unexpected?
+- What is in scope and what is out of scope?
+- Clearly define hypotheses and explicitly state research questions
+
+### Step 3: Find Resources
+- Use the keywords you have compiled and use them to search for books in Library Catalogs or articles in online article databases.
+- Team expertise 
+
+### Step 4: Solicit feedback and collaboration
+- Make sure the question is one that other people can get behind and support
+- Establish collaboration agreements and executive buy-in
+- Peer-review for clarity, scientific accuracy, and feasibility
+- Does the team have the expertise required to complete the project? If not, who else needs to be on team
+
+## Experimental design cycle
+- Problem statement
+- Question
+- Research
+- Hypotheses (It….then…)
+- Identify controls and experimental group as well as interventions/treatments
+- A control group is a group of ‘test’ items in an experiment. The control group will be used to compare with the experimental group
+- The control group doesn’t get the treatment 
+- An experimental group is the group(s) of test items where only one change (called the experimental or independent variable) has been made
+- The experimental group gets the treatment
+- The experimental group may have dependent or independent variables
+- Sample size 
+- Maximize sample size: the larger the number of test items the more accurate the estimate
+- Use representative groups: the samples must reflect the natural variation in the population. Use random or systematic sampling to reduce inherent bias in data.
+- Determine outcome measures and visualization of outcome
+- Independent variable or the factor that is manipulated or changed in placed on x-axis when grouping
+- Dependent variable or the factor that is being measured is placed on y-axis during grouping
+- Identify sources of error
+- Mind the constants: the conditions that are kept the same for control and experimental groups
+- Not controlling for factors or parameters that are kept the same in both control and experimental groups can result in error
+- Report back and adapt
+- Data analysis
+- Implement intervention and measure outcomes and impacts

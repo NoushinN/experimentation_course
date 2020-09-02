@@ -1,0 +1,26 @@
+# Mechanics of endoresement
+
+## requirements
+- Use communication matrix to relay information to stakeholders/executive
+- Importance: Why do we need to answer this scientific question now?
+- Novelty: Has this question been answered? Has it been attempted?
+- Impact: What’s the risk, and what's the potential upside?
+- Design: Is the design of the experiment sound? how?
+- Qualifications: What makes this researcher/research uniquely qualified?
+
+## Communication matrix
+- Establish a communication matrix
+- Experiment status project updates to whom and how
+- Foster a culture of experimentation in the organization
+ Explain the business value of experimentation to decision-makers
+- Establish accountabilities 
+- Frequency and content of communications
+- Structural report updates
+
+## Code of conduct
+- Ethical considerations
+- Information sharing agreements and memorandums of understanding
+- Identify situations where experimentations are appropriate and relevant
+- Check Institutional Review Board (IRB) approval requirements prior to the launch of the experiment
+- Perform privacy impact assessments
+- Get ethics committee approvals

@@ -1,6 +1,6 @@
 ---
 title: "Initiating an Experiment in the public service"
-author: "Noushin Nabavi"
+author: "Noushin Nabavi, PhD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -25,5 +25,18 @@ An interest in experimentation and apetite for informed consumation of evidence.
 - Define the problems before running an experiment
 - Design a research experiment
 - Provide examples of Experimentation
+
+## Outline
+
+| Chapter | Title | 
+|---------|---------|
+| 1 | Before initiating an experiment | 
+| 2 | Components of an experimental project |
+| 3 | Mechanics of endorsement | 
+| 4 | Case study| 
+| 5 | References | 
+ 
+
+
 
 

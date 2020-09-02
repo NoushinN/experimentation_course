@@ -1,0 +1,15 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+- City of Vancouver Solution Lab’s [Principles of Experimentation](https://vancouver.ca/files/cov/navigating-complexity-solutions-lab.pdf) (pg. 38), adapted from Nesta’s [Innovation Playbook](https://www.nesta.org.uk/toolkit/playbook-for-innovation-learning/), 2018  
+
+- Nesta’s Competency [Framework](https://media.nesta.org.uk/documents/Nesta_CompetencyFramework_Guide_July2019.pdf) for Experimental Problem Solving (pg. 2) 
+
+- States of Change’s [Core Elements of Innovation](https://states-of-change.org/assets/images/StatesofChange_Curriculum_Craft.png) Craft   
+
+- Tatyana Mamut’s eight [Innovation Elements](https://gww.gov.bc.ca/sites/default/files/group/file/2019/0207/remixtatyanamamutleadingacultureofinnovationlowres.pdf) (pg. 6) 
+
+- The Moment’s [Culture Scan](https://info.themoment.is/innovationculture) 
+
+- Innovation Designer [Capability Map](https://cdn2.hubspot.net/hubfs/3903042/themoment_InnovationDesignersCapabilityMap.pdf) 
