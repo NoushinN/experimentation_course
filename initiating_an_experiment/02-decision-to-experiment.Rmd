@@ -1,4 +1,4 @@
-# Decision to experiment
+# Before starting an experiment
 
 ##  Deciding to experiment
 - Do you need to experiment? Why or why not?
@@ -33,25 +33,33 @@
 - Does the team have the expertise required to complete the project? If not, who else needs to be on team
 
 ## Experimental design cycle
-- Problem statement
+
+###  Problem statement
 - Question
 - Research
 - Hypotheses (It….then…)
-- Identify controls and experimental group as well as interventions/treatments
+
+### Identify controls and experimental group as well as interventions/treatments
 - A control group is a group of ‘test’ items in an experiment. The control group will be used to compare with the experimental group
 - The control group doesn’t get the treatment 
 - An experimental group is the group(s) of test items where only one change (called the experimental or independent variable) has been made
 - The experimental group gets the treatment
 - The experimental group may have dependent or independent variables
-- Sample size 
+
+### Sample size consideration
 - Maximize sample size: the larger the number of test items the more accurate the estimate
 - Use representative groups: the samples must reflect the natural variation in the population. Use random or systematic sampling to reduce inherent bias in data.
-- Determine outcome measures and visualization of outcome
+
+### Determine outcome measures and visualization of outcome
 - Independent variable or the factor that is manipulated or changed in placed on x-axis when grouping
 - Dependent variable or the factor that is being measured is placed on y-axis during grouping
-- Identify sources of error
+
+### Identify sources of error
 - Mind the constants: the conditions that are kept the same for control and experimental groups
 - Not controlling for factors or parameters that are kept the same in both control and experimental groups can result in error
-- Report back and adapt
-- Data analysis
-- Implement intervention and measure outcomes and impacts
+
+### Report back and adapt
+
+### Data analysis
+
+### Implement intervention and measure outcomes and impacts
