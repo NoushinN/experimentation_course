@@ -1,0 +1,29 @@
+---
+title: "Initiating an Experiment in the public service"
+author: "Noushin Nabavi"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: NoushinN/experimentation_course
+description: "This book contains materials for an introduction to initiating an experiment"
+---
+
+# Preface 
+
+This is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course, `Initiating an Experiment`. 
+
+
+## Prerequisites
+
+An interest in experimentation and apetite for informed consumation of evidence. Additionally, being part of a team of knowledgeable partners with interests in experimentation with policies, programs, and services, helps with developing contexts. 
+
+## Learning objectives
+
+- Identify the steps needed before starting an experimental project
+- Explain the steps involved when deciding to experiment
+- Define the problems before running an experiment
+- Design a research experiment
+- Provide examples of Experimentation
+
+
