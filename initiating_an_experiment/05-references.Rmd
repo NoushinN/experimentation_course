@@ -2,6 +2,7 @@
 # References {-}
 '`
 
+
 - City of Vancouver Solution Lab’s [Principles of Experimentation](https://vancouver.ca/files/cov/navigating-complexity-solutions-lab.pdf) (pg. 38), adapted from Nesta’s [Innovation Playbook](https://www.nesta.org.uk/toolkit/playbook-for-innovation-learning/), 2018  
 
 - Nesta’s Competency [Framework](https://media.nesta.org.uk/documents/Nesta_CompetencyFramework_Guide_July2019.pdf) for Experimental Problem Solving (pg. 2) 

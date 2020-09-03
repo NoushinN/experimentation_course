@@ -9,7 +9,7 @@ github-repo: NoushinN/experimentation_course
 description: "This book contains materials for an introduction to initiating an experiment"
 ---
 
-# Preface 
+# Preface {-}
 
 This is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course, `Initiating an Experiment`. 
 
