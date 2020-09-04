@@ -1,5 +1,5 @@
 ---
-title: "Initiating an Experiment in the public service"
+title: "Initiating an Experiment"
 author: "Noushin Nabavi, PhD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -11,20 +11,40 @@ description: "This book contains materials for an introduction to initiating an 
 
 # Preface {-}
 
-This is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course, `Initiating an Experiment`. 
+Welcome to the first edition of initiating an experiment in the public service. I’m so excited to work on this chapter for the experimentation course and work with my vibrant colleagues in the EW2 cohort.
 
+This  is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course, `Initiating an Experiment: what do you need to consider before starting an experimental project?`
+
+I hope this resource will be useful in clarifying when to experiment, what experiments are useful and why, as well as simplifying scientific and technological jargon, and some common misperceptions. As innovators seeking social good, we have a duty to put our ideas to test and discover what doesn’t work, what does, and find out how to improve people’s lives.
+
+I am tremendously grateful for the mentorship I have received from the EW2 leading team (Pierre-Olivier Bedard, Dan Monafu, and Sarah Chan) as well as the graphical design work lead by Jordana Globerman.
+
+I will appreciate to know how this course can be improved and what additional topics can be added. I also love to hear how public servants foresee using the experimentation concepts in their projects towards evidence-based transformation of policies, programs, and services. 
+
+A big thanks to Preet Chauhan, EW2 expert, for proof-reading and helping with the many examples.
 
 ## Prerequisites
 
-An interest in experimentation and apetite for informed consumation of evidence. Additionally, being part of a team of knowledgeable partners with interests in experimentation with policies, programs, and services, helps with developing contexts. 
+This course is intended for anyone with an interest in making scientific observations through experimentation, and does not require previous experience of studying the subject.
+
+An interest in experimentation and apetite for informed consumation of evidence. It means admitting that we don’t know all the answers but we can put our ideas to test. 
+
+Experimentation also necessitates a more mature attitude from leaders and decision-makers, one that allows us to learn positively from “good failure” rather than pretending we have all the answers.
+
+A team of knowledgeable partners with expertise in experimentations methodologies with a transparent and  “open-by-default” approach. 
+
+## Themes
+
+We will explore the following themes in this module to help us answer the question of what we need to consider before starting an experiment: (1) opportunities to experiment in government, and (2) designing experiments as part of existing programs/services.
 
 ## Learning objectives
 
+By the end of this module, you will be able to:
+
 - Identify the steps needed before starting an experimental project
-- Explain the steps involved when deciding to experiment
-- Define the problems before running an experiment
-- Design a research experiment
-- Provide examples of Experimentation
+- Devise a problem statement for the project and design a research experiment
+- Demonstrate how to foster a culture of experimentation in an organization
+- Apply experimentation knowledge to specific examples, cases and scenarios
 
 ## Outline
 

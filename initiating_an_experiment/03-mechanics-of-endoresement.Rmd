@@ -18,6 +18,16 @@
 - Structural report updates
 
 ## Code of conduct
+
+There are opportunities to experiment even on difficult social issues such as interventions in poverty policies, drug use, or healthy-living interventions. Creating a control group can carry its own risk. If, for example, we are experimenting with a new benefits scheme, having a control group allows us to test whether the scheme has actually achieved its goals, but it also means depriving a group of citizens of an improved service, at least initially. 
+
+To get around this, a phased policy roll-out can create what’s called a “waiting list” experiment where the control group are the soon-to-have-innovation group. Everybody eventually receives the new policy innovation, negating the risk of push-back from the public. This approach was used by the UK’s Ministry of Housing, Communities and Local Government in their first ever randomised trial on community integration. In 2016, they tested whether English language training could help immigrants engage more in their community.
+
+The results were impressive. They found significant improvements on many social integration outcomes, such as new friendships formed with people from other cultures, and attending more health appointments. The trial helped the Department put together new plans for their 2018 Integrated Communities Green Paper — including a network of conversation clubs and a new English language fund. For others wanting to design their own experiments in the UK Government, there is a Trials Advice Panel run by the Cabinet Office What Works Team who can walk you through the technicalities.
+
+
+
+
 - Ethical considerations
 - Information sharing agreements and memorandums of understanding
 - Identify situations where experimentations are appropriate and relevant

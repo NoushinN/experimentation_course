@@ -1,20 +1,27 @@
 # Before starting an experiment
 
-##  Deciding to experiment
-- Do you need to experiment? Why or why not?
-- Find a behaviour or object to test and think short term
-- Keep it simple
-- Start with a proof-of-concept test
-- Have control and treatment groups (e.g. randomization)
-- When results are in slice the data 
-- Try out of the box thinking
-- Measure everything that matters
-- Look for natural experiments
+At this point in the experimentation cycle, there are more questions than answers and the more questions one asks, the more rigorous the research proposal can be. 
 
-##  Steps involved in designing an experiment
+From the thousands of experiments conducted by Thomas Edison to create the first lightbulb, or the long-running field experiments by Gregor Mendel to examine genetic variability that today underpins modern agriculture concepts, through to trials in medicine,  trying ideas out in practice is a cornerstone of scientific and technological discovery.
+
+Today, experiments are critical to sectors where innovation and optimisation are routine, such as web development, digital transformation, electrical vehicles, etc. This has caught on in business such that the largest financial institutions, retailers and restaurants are also running randomized experiments, along with companies like Google, Facebook, and Amazon running tens of thousands of experiments a year. A/B testing is now the standard means through which Silicon Valley improves its online products. However, in government experimentation remains relatively rare. 
+
+As experimentation in the public service is a new field across the world, a small but growing movement of policy experimenters are bringing fresh ideas on how to solve public problems. From crafting better services, to making the back-office of government more efficient, new methods and tools need to be used to develop and test policy. In fact, government must rigorously and systematically put policy to the test – or risk stagnation.
+
+It is noteworthy that the word “experimental” has come to mean “innovative” or “radical” rather than simply “untested”. However, genuine experimentation is about committing to rigorous assessments and evaluation of evidence, not just freewheeling “trying stuff out” or doing things differently and expecting to succeed.
+
+Some points to consider before experimentation is what would experimentation look like in policy or practice and why would an experiment be worth investing in. We would also want to consider what experimental tools are out there and are available to us and whether and when they might fall short.
+
+
+##  Steps involved in designing a randomized experiment
+
+Randomised experiments aim to test a policy idea or innovation by investigating what difference it has made for the people it is aiming to help. All randomized experiments need a control group to test an innovation against “business-as-usual”. This doesn’t have to be a large trial like testing a drug and can be fast and flexible. For example, the World Bank are advocates for “nimble randomized control trials”. They funded nimble evaluations on how best to improve the take up of health insurance in Azerbaijan, expand the use of contraceptives in Burundi, and support teachers to deliver tailored education to children affected by war and displacement in Lebanon.
+
 
 ### Step 1: Choose a topic
-- Ask yourself the following question: 1. What do I find interesting about the subject? 2. What is known about the subject? 3. What is missing and the gaps?
+- Ask yourself the following question: 1. What do I find interesting about the subject? 2. What is known about the subject? 3. What is missing and what are the gaps?
+
+
 
 ### Step 2: Narrow the topic 
 - Ask yourself the following questions: 1. What do you need to know more about on the topic? 2. Are you interested in social, political, economic, gender, religious issues related to your topic? (General example) - Find a "slant" on your topic; 
@@ -23,6 +30,9 @@
 - Clearly define hypotheses and explicitly state research questions
 
 ### Step 3: Find Resources
+
+How do we design a research proposal that builds on existing knowledge to address critical questions? The key here is getting to know what is already done on the topic and how can our design improve or build on current knowledge. 
+
 - Literature search: use the keywords you have compiled and use them to search for books in Library Catalogs or articles in online article databases 
 - Team expertise 
 
@@ -35,31 +45,56 @@
 ## Experimental design cycle
 
 ###  Problem statement
+
+It’s important to be clear what different experimental designs can and can’t tell us. 
+Only certain experimental designs are helpful for learning about impact and effectiveness — ie. whether or not our new idea is really making a difference. 
+
+
 - Question
 - Research
 - Hypotheses (It….then…)
+- Consider what data to collect and what techniques to use for analysis
 
 ### Identify controls and experimental group as well as interventions/treatments
+
+There are valuable tools to help guide public decision-making. Despite their unfashionable status among some policy wonks and evaluators, we also highlight the value and utility of Quasi-Experimental Designs. We explain these methods, which are too often couched in deadly technical language.  Randomised experiments, or quasi-experimental designs are uniquely valuable. However, other approaches may be also be suited to finding out different things, at different stages of developing a policy solution.
+
+
 - A control group is a group of ‘test’ items in an experiment. The control group will be used to compare with the experimental group
 - The control group doesn’t get the treatment 
 - An experimental group is the group(s) of test items where only one change (called the experimental or independent variable) has been made
 - The experimental group gets the treatment
 - The experimental group may have dependent or independent variables
 
+
+In the case when a real control group is not available, a synthetic control group or a more inventive statistical methods may be useful.
+
+
 ### Sample size consideration
 - Maximize sample size: the larger the number of test items the more accurate the estimate
 - Use representative groups: the samples must reflect the natural variation in the population. Use random or systematic sampling to reduce inherent bias in data.
 
-### Determine outcome measures and visualization of outcome
-- Independent variable or the factor that is manipulated or changed in placed on x-axis when grouping
-- Dependent variable or the factor that is being measured is placed on y-axis during grouping
+### Determine outcome measures through visualization of outcomes
+
+As well as increasing our understanding of what experimental design to use when, there is scope for experimenters to get much better at using different tools in combination to innovate more effectively. Prototypers, for instance, could use low-cost randomised trials like A/B tests or nimble trials to evaluate prototyped products or services.
+
+Prototyping emphasises front-loading risk and creating a solution with a better chance of success through stakeholder engagement. Using plastic Lego bricks to build prototypes of engineering products is a low-fi, low-resource way of making early operational or design issues obvious. But it won’t tell you whether or not the new system works in real life, or at scale.
+
+Considerations when designing prototypes is to implement an intervention and measure the outcomes and impacts. For this, we need an independent variable or the factor that is manipulated, changed, or intervened and is usually a variable that is placed on x-axis when grouping. The other is a dependent variable or the factor that is being measured and usually placed on y-axis during grouping and visualization. 
 
 ### Identify sources of error
 - Mind the constants: the conditions that are kept the same for control and experimental groups
 - Not controlling for factors or parameters that are kept the same in both control and experimental groups can result in error
 
-### Report back and adapt
 
-### Data analysis
 
-### Implement intervention and measure outcomes and impacts
+##  Summary: deciding to experiment
+- Do you need to experiment? Why or why not?
+- Find a behaviour or object to test and think short term
+- Keep it simple
+- Start with a proof-of-concept test
+- Have control and treatment groups (e.g. randomization)
+- When results are in slice the data 
+- Try out of the box thinking
+- Measure everything that matters
+- Look for natural experiments
