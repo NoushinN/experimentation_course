@@ -10,7 +10,8 @@ _What would experimentation look like in policy or practice? why would an experi
 
 **Decision tree** 
 
-To help make whether an experiment is needed and set one's direction, the following decision tree from Nesta is a great starting point for a project journey.
+To help make whether an experiment is needed and set one's direction, the following decision tree from Nesta is a great starting point for a project journey. In this journey, only the two red bubbles refer to an experiment. The rest are only explorations or validations. 
+What makes the two red bubbles an experiment? what do they have in common? 
 
 <center>
 ![](fig/decision_tree.jpeg)
@@ -31,35 +32,77 @@ To help others understand the problem as we see it, the question needs to be wel
 This lifecycle presumes that we can:
 
 - sketch out what information we need to collect (or already have) to get from a vague idea to the hypothesis stage for a planned project
-
 - get invested in the problem before the solution nor in a particular result (any biases will work against us here)
-
 - not get stuck in a fishing expedition (i.e. grouping ideas forever)
-
 - understand the problem well enough to crisply articulate the goals, questions, and hypotheses before building metrics.
-
 - select metrics that will help answer the questions. This can include system parameters, workload parameters, behaviours, etc. `“If all you have is a hammer, everything looks like a nail.” - Bernard Baruch`
-
 - identify parameters that affect behaviour or observations and decide which parameters or interactions to study, or vary.
 
 ## What can go wrong?
 
 > Don’t land your plane in forests, and don’t do experimental designs before you have considered its drawbacks
 
-Every positive side comes with a negative one, and so no design is really perfect. However, we should choose the designs that best answers the research questions, and don’t try to tailor the research question to the method at hand. 
+Every positive side comes with a negative one, and so no design is really perfect. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. One single experimental desgin cannot be comprehensive and all-encompassing. Additionally, we cannot control for the many factors and behaviours that may affect a situation. 
+
+Therefore, since all models are wrong, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer a research question, and not try to tailor the research question to the method at hand. 
+
+For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can badly fail in two aspects: 
+(1) people act differently when they realize they are under study. If asked about questions on sensitive topics (e.g., homosexuality, immigration, abortion, or Donald Trump), people understand there is a “standard” answer and so, they may hide their true feelings and give socially acceptable answers.
+(2) having a representative sample is difficult and expensive. In social sciences, one of the basis of experiments is recognizing regional diversity (e.g. British Columbia is different from Ontario and Ontario is different from Quebec). This can affect the interpretation of our findings and their generalizability.
 
 <center>
 ![](fig/positivity.jpg){width=80%}
 </center>
 
-Experiments can be dangerous if you fall into the following pitfalls:
 
-- Wrong metrics (i.e. they don't answer the question at hand)
-- Not clear about `scope` (i.e. what are the boundaries for the 'system under test')
-- Unrepresentative metrics or having no comparison groups
-- Overlooking significant parameters that affect the behaviour of a system
+Additionally, statistical models that are used to analyse collected data also work under assumptions. For example, a simple linear regression model requires four assumptions:
 
-## Communication of intent
+```
+- E(y) = Xβ
+- Independence
+- Equal variance (σ²)
+- Normality
+```
+
+Without checking these assumptions, we are using the wrong models and generating misguided insights or misinformation. 
+Another instance is not considering degrees of freedom, i.e.  measuring how much information we can get from the data: the more variables are included, the less information is left out but our data analysis models can run out of steam if there are too many variables (problem of big data).
+
+To summarise, experiments can be 'dangerous' if we fall into the following pitfalls (not an exhastive list):
+
+- Devise wrong metrics (i.e. metrics that don't answer the question at hand)
+- Have no clear scope (i.e. what are the boundaries for the 'system under test')
+- Omit assumptions and limitations of study
+- Use unrepresentative metrics, have no comparison groups, or have cross-contamination
+- Not recognize the experimental limitations
+- Overlook significant parameters that affect the behaviour of a system
+- Report average and not variability (fall for tricks of statistics or have no statistics!)
+- Have no interpretation of what results mean or overgeneralizing conclusions
+- Ingore errors and outliers
+- Not consider the ethical issues and scenarios or have informed consent from participants
+
+
+## It is not all bad
+
+Experimentation is not all bad news. Many breakthroughs and transformations on many fronts from medicine and technology to social changes for good have come about by a willingness to experiment. 
+
+<center>
+![](fig/cellphone_evolution.png){width=80%}
+</center>
+
+There are definitely many pros to experimentation. For instance, experiments result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. This is great to know and invest on as a business.
+
+Pro 2 It’s Good Even Without Prior Knowledge
+As stated, the observational study depends on theories to guide variable selection and falls short if there is no theory to start. Emerging research areas run into this problem frequently.
+Since it directly controls how data is generated, the experimental approach can survive and thrive with no previous knowledge.
+With no prior knowledge, electoral researchers carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
+Pro3 Experiments Clarify Mixed Results
+Due to different measurements and data sources, observational studies often generate mixed results.
+How can we clarify the mixed results?
+Run an experiment!
+Again in electoral politics, researchers run an experiment to detect how campaign spending affects the voters for the incumbent and the voters for the challengers differently.
+
+
+## Communication of intent to experiment
 
 Given that we are considering the option to experiment, we need to have clear and open communications and collaborations with cross-functional teams. 
 
