@@ -1,31 +1,79 @@
 # Experiment components
 
-## Endorsements 
 
-- executive support 
 
-## Collaboration agreements 
+##  Steps involved in running an experiment
 
-- team support 
+### Step 1: Choose a topic
+- Ask yourself the following question: 1. What do I find interesting about the subject? 2. What is known about the subject? 3. What is missing and what are the gaps?
 
-## Funding models and budget targets
 
-## Past research and literature search 
 
-## Defining relevant and specific questions  
+### Step 2: Narrow the topic 
+- Ask yourself the following questions: 1. What do you need to know more about on the topic? 2. Are you interested in social, political, economic, gender, religious issues related to your topic? (General example) - Find a "slant" on your topic; 
+- Will the results reveal something new or unexpected?
+- What is in scope and what is out of scope?
+- Clearly define hypotheses and explicitly state research questions
 
-- context and significance 
+### Step 3: Find Resources
 
-## Project scoping and problem statement
+How do we design a research proposal that builds on existing knowledge to address critical questions? The key here is getting to know what is already done on the topic and how can our design improve or build on current knowledge. 
 
-- objectives and aims 
+- Literature search: use the keywords you have compiled and use them to search for books in Library Catalogs or articles in online article databases 
+- Team expertise 
 
-## Experimental design 
+### Step 4: Solicit feedback and collaboration
+- Make sure the question is one that other people can get behind and support
+- Establish collaboration agreements and executive buy-in
+- Peer-review for clarity, scientific accuracy, and feasibility
+- Does the team have the expertise required to complete the project? If not, who else needs to be on team
 
-- controlled experimentation
 
-## Project timelines and milestones
 
-## Communication matrix 
 
-- stakeholder consensus
+
+
+## Experimental design cycle
+
+###  Problem statement
+
+It’s important to be clear what different experimental designs can and can’t tell us. 
+Only certain experimental designs are helpful for learning about impact and effectiveness — ie. whether or not our new idea is really making a difference. 
+
+
+- Question
+- Research
+- Hypotheses (It….then…)
+- Consider what data to collect and what techniques to use for analysis
+
+### Identify controls and experimental group as well as interventions/treatments
+
+There are valuable tools to help guide public decision-making. Despite their unfashionable status among some policy wonks and evaluators, we also highlight the value and utility of Quasi-Experimental Designs. We explain these methods, which are too often couched in deadly technical language.  Randomised experiments, or quasi-experimental designs are uniquely valuable. However, other approaches may be also be suited to finding out different things, at different stages of developing a policy solution.
+
+
+- A control group is a group of ‘test’ items in an experiment. The control group will be used to compare with the experimental group
+- The control group doesn’t get the treatment 
+- An experimental group is the group(s) of test items where only one change (called the experimental or independent variable) has been made
+- The experimental group gets the treatment
+- The experimental group may have dependent or independent variables
+
+
+In the case when a real control group is not available, a synthetic control group or a more inventive statistical methods may be useful.
+
+
+### Sample size consideration
+- Maximize sample size: the larger the number of test items the more accurate the estimate
+- Use representative groups: the samples must reflect the natural variation in the population. Use random or systematic sampling to reduce inherent bias in data.
+
+### Determine outcome measures through visualization of outcomes
+
+As well as increasing our understanding of what experimental design to use when, there is scope for experimenters to get much better at using different tools in combination to innovate more effectively. Prototypers, for instance, could use low-cost randomised trials like A/B tests or nimble trials to evaluate prototyped products or services.
+
+Prototyping emphasises front-loading risk and creating a solution with a better chance of success through stakeholder engagement. Using plastic Lego bricks to build prototypes of engineering products is a low-fi, low-resource way of making early operational or design issues obvious. But it won’t tell you whether or not the new system works in real life, or at scale.
+
+Considerations when designing prototypes is to implement an intervention and measure the outcomes and impacts. For this, we need an independent variable or the factor that is manipulated, changed, or intervened and is usually a variable that is placed on x-axis when grouping. The other is a dependent variable or the factor that is being measured and usually placed on y-axis during grouping and visualization. 
+
+### Identify sources of error
+- Mind the constants: the conditions that are kept the same for control and experimental groups
+- Not controlling for factors or parameters that are kept the same in both control and experimental groups can result in error
+
