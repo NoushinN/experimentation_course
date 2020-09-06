@@ -22,7 +22,7 @@ What makes the two red bubbles an experiment? what do they have in common?
 
 > A problem well-stated is half-solved!
 
-To help others understand the problem as we see it, the question needs to be well framed and the goals clearly articulated. To help formulating the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general obervations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment, (7) gather data, analyze, and interpret the results, and (8) communicate them to stakeholders
+To help others understand the problem as we see it, the question needs to be well framed and the goals clearly articulated. To help formulating the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general obervations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders
 
 
 <center>

@@ -1,28 +1,37 @@
 # Experiment components
 
+>  Experimentation as a problem-solving process carried out under controlled conditions in order to discover an unknown effect or law, to test or establish a hypothesis, or to illustrate a known law
+
+Experimentation is described as many things: a method, an approach, a test, or a tool to generate evidence. All of this is true, but experimentation is first and foremost a problem-solving process. 
+
+The starting point for your experiment should not be the methodology, nor a predetermined answer; it should be the problem you are trying to resolve. 
 
 
-##  Steps involved in running an experiment
+<center>
+![](fig/experiment-meme.jpeg)
+</center>
 
-### Step 1: Choose a topic
+To help us chose the problem statement, we can go through the following steps:
+
+## Step 1: Choose a topic
 - Ask yourself the following question: 1. What do I find interesting about the subject? 2. What is known about the subject? 3. What is missing and what are the gaps?
 
 
 
-### Step 2: Narrow the topic 
+## Step 2: Narrow the topic 
 - Ask yourself the following questions: 1. What do you need to know more about on the topic? 2. Are you interested in social, political, economic, gender, religious issues related to your topic? (General example) - Find a "slant" on your topic; 
 - Will the results reveal something new or unexpected?
 - What is in scope and what is out of scope?
 - Clearly define hypotheses and explicitly state research questions
 
-### Step 3: Find Resources
+## Step 3: Find Resources
 
 How do we design a research proposal that builds on existing knowledge to address critical questions? The key here is getting to know what is already done on the topic and how can our design improve or build on current knowledge. 
 
 - Literature search: use the keywords you have compiled and use them to search for books in Library Catalogs or articles in online article databases 
 - Team expertise 
 
-### Step 4: Solicit feedback and collaboration
+## Step 4: Solicit feedback and collaboration
 - Make sure the question is one that other people can get behind and support
 - Establish collaboration agreements and executive buy-in
 - Peer-review for clarity, scientific accuracy, and feasibility
