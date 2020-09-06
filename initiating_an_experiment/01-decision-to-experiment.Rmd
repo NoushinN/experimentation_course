@@ -46,9 +46,10 @@ Every positive side comes with a negative one, and so no design is really perfec
 
 Therefore, since all models are wrong, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer a research question, and not try to tailor the research question to the method at hand. 
 
-For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can badly fail in two aspects: 
+For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can badly fail in several aspects: 
 (1) people act differently when they realize they are under study. If asked about questions on sensitive topics (e.g., homosexuality, immigration, abortion, or Donald Trump), people understand there is a “standard” answer and so, they may hide their true feelings and give socially acceptable answers.
 (2) having a representative sample is difficult and expensive. In social sciences, one of the basis of experiments is recognizing regional diversity (e.g. British Columbia is different from Ontario and Ontario is different from Quebec). This can affect the interpretation of our findings and their generalizability.
+(3) determining the causal relations between two events is usually the goal of experimentation. However, direction of causal inference in social situations can be problematic. Traditional quantitative methods are particularly ill-designed for causal questions when the answer can go in either directions. A solution here is a carefully designed experiment with control groups
 
 <center>
 ![](fig/positivity.jpg){width=80%}
@@ -64,7 +65,13 @@ Additionally, statistical models that are used to analyse collected data also wo
 - Normality
 ```
 
-Without checking these assumptions, we are using the wrong models and generating misguided insights or misinformation. 
+Without checking these assumptions, we are using the wrong models and generating misguided insights or misinformation. Thus, relying on models can also have un-intended consequences.
+
+<center>
+![](fig/modeling_gonewrong.png){width=80%}
+</center>
+
+
 Another instance is not considering degrees of freedom, i.e.  measuring how much information we can get from the data: the more variables are included, the less information is left out but our data analysis models can run out of steam if there are too many variables (problem of big data).
 
 To summarise, experiments can be 'dangerous' if we fall into the following pitfalls (not an exhastive list):
@@ -83,23 +90,24 @@ To summarise, experiments can be 'dangerous' if we fall into the following pitfa
 
 ## It is not all bad
 
-Experimentation is not all bad news. Many breakthroughs and transformations on many fronts from medicine and technology to social changes for good have come about by a willingness to experiment. 
+> Evidence-based policy making can be a political ideal 
+
+Experimentation is not all bad news. Many breakthroughs and transformations on many fronts from medicine and technology to social changes for good have come about by a willingness to experiment. For example, the following:
 
 <center>
 ![](fig/cellphone_evolution.png){width=80%}
 </center>
 
-There are definitely many pros to experimentation. For instance, experiments result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. This is great to know and invest on as a business.
+There are also many pros to experimentation. For instance, experiments can result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. This is great to know and invest in as a business.
 
-Pro 2 It’s Good Even Without Prior Knowledge
-As stated, the observational study depends on theories to guide variable selection and falls short if there is no theory to start. Emerging research areas run into this problem frequently.
-Since it directly controls how data is generated, the experimental approach can survive and thrive with no previous knowledge.
-With no prior knowledge, electoral researchers carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
-Pro3 Experiments Clarify Mixed Results
-Due to different measurements and data sources, observational studies often generate mixed results.
-How can we clarify the mixed results?
-Run an experiment!
-Again in electoral politics, researchers run an experiment to detect how campaign spending affects the voters for the incumbent and the voters for the challengers differently.
+Experimentation can be good even without prior knowledge. This is because sometimes there may not be a theory or theories may fall short to start with. Since an experimentation can directly control how data is generated, the experimental approach can survive and thrive with no previous knowledge. For instance, with no prior knowledge, electoral researchers can carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
+
+Experimentation can help clarify mixed results. This is sometimes inherent in observations that are looking at similar phenomena with different measurements or with different data sources. Observational studies often generate mixed results and one way to validate or clarify the existing mixed result is to run an experiment. Again with the example of electoral politics, researchers can chose to run an experiment to detect how campaign spending affects the voters for the incumbent and the challengers differently.
+
+<center>
+![](fig/march4science.png){width=80%}
+</center>
+
 
 
 ## Communication of intent to experiment
@@ -140,10 +148,12 @@ For example, the World Bank advocates for “nimble randomized control trials”
 ##  Summary: deciding to experiment
 - Do you need to experiment? Why or why not?
 - Find a behaviour, program, policy, or service to test 
-- Try out of the box thinking to brainstorm
-- Think small and short term
-- Keep it simple
-- Start with a proof-of-concept question and hypothesis
-- Have control and treatment groups 
-- Measure everything that matters
+- Try out of the box thinking to brainstorm, make observations
 - Look for natural experiments
+- Talk to experts and get feedback
+- Think small and short term
+- Start with a proof-of-concept question and hypothesis
+- Keep it simple and try to test one thing at a time
+- Measure everything that matters
+- Have control and treatment groups when possible
+
