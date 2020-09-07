@@ -6,9 +6,29 @@ The overall objectives is to make public servants informed consumers of evidence
 
 # Initiating an Experiment Module
 
-This module is specifically designed to cover topics on  `Initiating an Experiment`. 
+This module is specifically designed to cover topics on  **Initiating an Experiment**. 
 
 The themes explored in this module are:
 (i) dentifying opportunities to experiment in government activities - be it policy, program, regulatory, service, or internal services, 
 (ii) designing experiments as part of existing programs/services.
 
+
+# Table of content
+
+- [Preface {-}](#preface----)
+  * [Prerequisites](#prerequisites)
+  * [Themes](#themes)
+  * [Learning objectives](#learning-objectives)
+  * [Outline](#outline)
+  
+- [Before starting an experiment](#before-starting-an-experiment)
+  * [Do we need to experiment?](#do-we-need-to-experiment-)
+  * [The experimentation cycle](#the-experimentation-cycle)
+  * [What can go wrong?](#what-can-go-wrong-)
+  * [It is not all bad](#it-is-not-all-bad)
+  * [Communication of intent to experiment](#communication-of-intent-to-experiment)
+  * [Experiments in the public sphere](#experiments-in-the-public-sphere)
+  * [Summary: deciding to experiment](#summary--deciding-to-experiment)
+  
+  
+  
