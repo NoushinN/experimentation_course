@@ -9,6 +9,7 @@ github-repo: NoushinN/experimentation_course
 description: "This book contains materials for an introduction to initiating an experiment"
 ---
 
+
 # Preface {-}
 
 Welcome to the first edition of initiating an experiment in the public service. I’m so excited to work on this chapter for the experimentation course and work with my vibrant colleagues in the EW2 cohort.
@@ -16,7 +17,7 @@ Welcome to the first edition of initiating an experiment in the public service. 
 This  is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course: _Initiating an Experiment: what do you need to consider before starting an experimental project?_
 
 <center>
-![](fig/experimentation.png)
+![](fig/experimentation-rules.png)
 </center>
 
 I hope this resource will be useful in clarifying **when** to experiment, **what** experiments are useful and **why**, **which** pitfals to consider, as well as simplifying scientific and technological jargon and  common misperceptions. As innovators seeking social good, we have a duty to put our ideas to test and discover what doesn’t work, what does, and find out how to improve people’s lives.
@@ -59,6 +60,7 @@ By the end of this module, you will be able to:
 | 4 | Case studies | 
 | 5 | References | 
  
+
 
 
 
