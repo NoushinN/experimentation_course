@@ -61,12 +61,15 @@ To get around this, a phased policy roll-out can create what’s called a “wai
 
 The results were impressive. They found significant improvements on many social integration outcomes, such as new friendships formed with people from other cultures, and attending more health appointments. The trial helped the Department put together new plans for their 2018 Integrated Communities Green Paper — including a network of conversation clubs and a new English language fund. For others wanting to design their own experiments in the UK Government, there is a Trials Advice Panel run by the Cabinet Office What Works Team who can walk you through the technicalities.
 
-
-
-
-- Ethical considerations
+Ethical considerations:
 - Information sharing agreements and memorandums of understanding
 - Identify situations where experimentations are appropriate and relevant
 - Check Institutional Review Board (IRB) approval requirements prior to the launch of the experiment
 - Perform privacy impact assessments
 - Get ethics committee approvals
+
+In summary:
+- Be ethical!
+- Inform users
+- Clear consent of participation
+
