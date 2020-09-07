@@ -54,7 +54,15 @@ Figuring out the problem will take time, and needs to be done in consultation wi
 
 ## Determine interventions
 
-It’s important to be clear what different experimental designs can and can’t tell us. What sets observational studies apart from experimental studies is that there is a component of intervention in experimentation. Only certain experimental designs are helpful for learning about impact and effectiveness of an intervention, and for finding out whether or not our new idea is really making a difference. This approximates the controlled experiment of basic science.
+It’s important to be clear what different experimental designs can and can’t tell us. What sets observational studies apart from experimental studies is that there is a component of **intervention** in experimentation. 
+
+
+<center>
+![](fig/experimentation.jpg)
+</center>
+
+
+Only certain experimental designs are helpful for learning about impact and effectiveness of an intervention, and for finding out whether or not our new idea is really making a difference. This approximates the controlled experiment of basic science.
 
 Therefore, when setting up an experimental design, we need to think about what the intervention/ treatment groups might look like in our program/ operation. It is helpful to think of interventions as steps that help us evaluate the direct impacts of treatment or preventive measures on a situation.  
 
@@ -67,21 +75,32 @@ In this case, each experimental study design has specific outcome measures that 
 For instance, a well designed randomised control trial (RCT) provides a strong evidence that a given intervention can postulate effectiveness or safety, etc. A RCT is best used when we need to draw conclusions on causality.
 
 
+## Measuring outcomes
+
+When designing the intervention, it is also important to determine what you want to measure and what the hypothesized effects might be. This will also illuminate what data we need to collect and what techniques we will need to use for analysis. 
+
+<center>
+![](fig/experimental_measurements.jpeg)
+</center>
+
+An outcome measure, endpoint, effect measure or measure of effect is a measure which is used to assess the effect, both positive and negative, of an intervention or treatment. Measures can often be quantified using effect sizes. They can also be thought of as providing a score, an interpretation of results or at times a risk categorization of study groups. Prior to providing any intervention, an outcome measure provides baseline data on variable.
+
+**Determine outcome measures through visualization of outcomes / prototypes**
+
+As well as increasing our understanding of what experimental design to use when, there is scope for experimenters to get much better at using different tools in combination to innovate more effectively. Prototypers, for instance, could use low-cost randomised trials like A/B tests or nimble trials to evaluate prototyped products or services.
+
+Prototyping emphasises front-loading risk and creating a solution with a better chance of success through stakeholder engagement. Using plastic Lego bricks to build prototypes of engineering products is a low-fi, low-resource way of making early operational or design issues obvious. But it won’t tell you whether or not the new system works in real life, or at scale.
+
+Considerations when designing prototypes is to implement an intervention and measure the outcomes and impacts. For this, we need an independent variable or the factor that is manipulated, changed, or intervened and is usually a variable that is placed on x-axis when grouping. The other is a dependent variable or the factor that is being measured and usually placed on y-axis during grouping and visualization. 
 
 
-## Outcomes
+## Experimental design
 
-determine what you want to measure and what the hypothesized effects might be.
-Consider what data to collect and what techniques to use for analysis
+Next is to determine if randomization is possible, what the sampling unit and approach might be, how the control group might be set up as well as how many observations are needed based on power calculations.
 
+Randomised experiments, or quasi-experimental designs, sometimes couched in deadly technical language, are uniquely valuable. Despite their unfashionable status among some policy wonks and evaluators, we will also highlight the value and utility of Quasi-Experimental designs in the next module. 
 
-## Experiment design options
-
-determine if randomization is possible, what the sampling unit and approach might be, how the control group might be set up as well as how many observations are needed based on power calculations
-
-Identify controls and experimental group as well as interventions/treatments
-
-There are valuable tools to help guide public decision-making. Despite their unfashionable status among some policy wonks and evaluators, we also highlight the value and utility of Quasi-Experimental Designs. We explain these methods, which are too often couched in deadly technical language.  Randomised experiments, or quasi-experimental designs are uniquely valuable. However, other approaches may be also be suited to finding out different things, at different stages of developing a policy solution.
+Other approaches may be also be suited to finding out different things, at different stages of developing a policy solution.
 
 
 - A control group is a group of ‘test’ items in an experiment. The control group will be used to compare with the experimental group
@@ -94,17 +113,10 @@ There are valuable tools to help guide public decision-making. Despite their unf
 In the case when a real control group is not available, a synthetic control group or a more inventive statistical methods may be useful.
 
 
-### Sample size consideration
+**Sample size consideration**
 - Maximize sample size: the larger the number of test items the more accurate the estimate
 - Use representative groups: the samples must reflect the natural variation in the population. Use random or systematic sampling to reduce inherent bias in data.
 
-### Determine outcome measures through visualization of outcomes
-
-As well as increasing our understanding of what experimental design to use when, there is scope for experimenters to get much better at using different tools in combination to innovate more effectively. Prototypers, for instance, could use low-cost randomised trials like A/B tests or nimble trials to evaluate prototyped products or services.
-
-Prototyping emphasises front-loading risk and creating a solution with a better chance of success through stakeholder engagement. Using plastic Lego bricks to build prototypes of engineering products is a low-fi, low-resource way of making early operational or design issues obvious. But it won’t tell you whether or not the new system works in real life, or at scale.
-
-Considerations when designing prototypes is to implement an intervention and measure the outcomes and impacts. For this, we need an independent variable or the factor that is manipulated, changed, or intervened and is usually a variable that is placed on x-axis when grouping. The other is a dependent variable or the factor that is being measured and usually placed on y-axis during grouping and visualization. 
 
 ### Identify sources of error
 - Mind the constants: the conditions that are kept the same for control and experimental groups

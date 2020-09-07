@@ -6,6 +6,10 @@
 
 - executive support 
 
+<center>
+![](fig/buy-in.png)
+</center>
+
 ## Collaboration agreements 
 
 - team support 
@@ -56,6 +60,12 @@ Communication of experimentation processes is like an onion, we can start in the
 ## Code of conduct
 
 There are opportunities to experiment even on difficult social issues such as interventions in poverty policies, drug use, or healthy-living interventions. Creating a control group can carry its own risk. If, for example, we are experimenting with a new benefits scheme, having a control group allows us to test whether the scheme has actually achieved its goals, but it also means depriving a group of citizens of an improved service, at least initially. 
+
+
+<center>
+![](fig/CodeOfEthics.jpg)
+</center>
+
 
 To get around this, a phased policy roll-out can create what’s called a “waiting list” experiment where the control group are the soon-to-have-innovation group. Everybody eventually receives the new policy innovation, negating the risk of push-back from the public. This approach was used by the UK’s Ministry of Housing, Communities and Local Government in their first ever randomised trial on community integration. In 2016, they tested whether English language training could help immigrants engage more in their community.
 

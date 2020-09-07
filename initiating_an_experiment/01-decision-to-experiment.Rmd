@@ -120,7 +120,9 @@ These conversations presumes that there is already an executive level buy-in in 
 
 Executive buy-in usually requires a thorough risk assessment and contingency plans more so in the public service space than in academic environments. Therefore, it is important that the executive is aware of the experimentation cycle which can also be thought of as the problem-solving process and endorses the method, approach, tests, and tools that generate evidence. Some, in fact, argue that experimentation is the creation of something new in the face of uncertainty and risk.
 
-> It is noteworthy that the word “experimental” has come to mean “innovative” or “radical” rather than simply “untested”. Genuine experimentation is about committing to rigorous assessments and evaluation  of evidence, not just freewheeling “trying stuff out” or doing things differently and expecting to  succeed.
+> It is noteworthy that the word “experimental” has come to mean “innovative” or “radical” rather than simply “untested”. [The Experimenter's Inventory](A catalogue of experiments for decision-makers and professionals)
+
+Genuine experimentation is about committing to rigorous assessments and evaluation  of evidence, not just freewheeling “trying stuff out” or doing things differently and expecting to  succeed.
 
 Therefore, even though a methodology is key to answering a specific question, the starting point is having a problem you are trying to resolve, preferrably with the social good in mind. The purpose of experimenting is to test key questions and assumptions using quick, low risk experiments. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Initiating an Experiment"
-author: "Noushin Nabavi, PhD"
+author: "Noushin Nabavi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -13,9 +13,13 @@ description: "This book contains materials for an introduction to initiating an 
 
 Welcome to the first edition of initiating an experiment in the public service. I’m so excited to work on this chapter for the experimentation course and work with my vibrant colleagues in the EW2 cohort.
 
-This  is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course, `Initiating an Experiment: what do you need to consider before starting an experimental project?`
+This  is a repository to house course materials related to module 2 of Government of Canada's Experimentation Course: _Initiating an Experiment: what do you need to consider before starting an experimental project?_
 
-I hope this resource will be useful in clarifying when to experiment, what experiments are useful and why, as well as simplifying scientific and technological jargon, and some common misperceptions. As innovators seeking social good, we have a duty to put our ideas to test and discover what doesn’t work, what does, and find out how to improve people’s lives.
+<center>
+![](fig/experimentation.png)
+</center>
+
+I hope this resource will be useful in clarifying **when** to experiment, **what** experiments are useful and **why**, **which** pitfals to consider, as well as simplifying scientific and technological jargon and  common misperceptions. As innovators seeking social good, we have a duty to put our ideas to test and discover what doesn’t work, what does, and find out how to improve people’s lives.
 
 I am tremendously grateful for the mentorship I have received from the EW2 leading team (Pierre-Olivier Bedard, Dan Monafu, and Sarah Chan) as well as the graphical design work lead by Jordana Globerman.
 
@@ -43,7 +47,6 @@ By the end of this module, you will be able to:
 
 - Identify the steps needed before starting an experimental project
 - Devise a problem statement for the project and design a research experiment
-- Demonstrate how to foster a culture of experimentation in an organization
 - Apply experimentation knowledge to specific examples, cases and scenarios
 
 ## Outline
