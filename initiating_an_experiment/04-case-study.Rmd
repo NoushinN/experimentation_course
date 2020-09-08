@@ -31,13 +31,13 @@ In this example, there are three potential causal relationships.
 ![](fig/scenario1.png){width=80%}
 </center>
 
-**2. Political affiliations determine consumation of news**: People with certain preferences and orientations choose to watch fake news. So, fake news only reinforces but won’t change the existing beliefs.
+**2. Political affiliations determine consumption of news**: People with certain preferences and orientations choose to watch fake news. So, fake news only reinforces but won’t change the existing beliefs.
 
 <center>
 ![](fig/scenario2.png){width=80%}
 </center>
 
-**3. Two-way causation**: Political preferences determine which pieces of political information to receive. In turn, it further shapes the existing preferences and changes voters' behaviors. To test these scenario, we can apply a simple experimental design and test it.
+**3. Two-way causation**: Political preferences determine which pieces of political information to receive. In turn, it further shapes the existing preferences and changes voters' behaviours. To test these scenario, we can apply a simple experimental design and test it.
 
 <center>
 ![](fig/scenario3.png){width=80%}

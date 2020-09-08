@@ -9,7 +9,7 @@ The overall objectives is to make public servants informed consumers of evidence
 This module is specifically designed to cover topics on  **Initiating an Experiment**. 
 
 The themes explored in this module are:
-(i) dentifying opportunities to experiment in government activities - be it policy, program, regulatory, service, or internal services, 
+(i) identifying opportunities to experiment in government activities - be it policy, program, regulatory, service, or internal services, 
 (ii) designing experiments as part of existing programs/services.
 
 
@@ -31,4 +31,16 @@ The themes explored in this module are:
   * [Summary: deciding to experiment](#summary--deciding-to-experiment)
   
   
+- [Experiment components](#experiment-components)
+  * [The problem statement](#the-problem-statement)
+  * [Determine interventions](#determine-interventions)
+  * [Determine outcomes](#determine-outcomes)
+  * [Experimental design(s)](#experimental-design-s-)
+  * [collect and analyze data](#collect-and-analyze-data)
   
+  
+- [Case study](#case-study)
+  * [Background research](#background-research)
+  * [The problem statement](#the-problem-statement)
+  * [Scenarios](#scenarios)
+  * [Experimental solution](#experimental-solution)

@@ -22,7 +22,7 @@ What makes the two red bubbles an experiment? what do they have in common?
 
 > A problem well-stated is half-solved!
 
-To help others understand the problem as we see it, the question needs to be well framed and the goals clearly articulated. To help formulating the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general obervations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders
+To help others understand the problem as we see it, the question needs to be well framed and the goals clearly articulated. To help formulating the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general observations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders
 
 
 <center>
@@ -42,7 +42,7 @@ This lifecycle presumes that we can:
 
 > Don’t land your plane in forests, and don’t do experimental designs before you have considered its drawbacks
 
-Every positive side comes with a negative one, and so no design is really perfect. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. One single experimental desgin cannot be comprehensive and all-encompassing. Additionally, we cannot control for the many factors and behaviours that may affect a situation. 
+Every positive side comes with a negative one, and so no design is really perfect. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. One single experimental design cannot be comprehensive and all-encompassing. Additionally, we cannot control for the many factors and behaviours that may affect a situation. 
 
 Therefore, since all models are wrong, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer a research question, and not try to tailor the research question to the method at hand. 
 
@@ -56,7 +56,7 @@ For instance, we may decide to base our tests on a set of observations derived f
 </center>
 
 
-Additionally, statistical models that are used to analyse collected data also work under assumptions. For example, a simple linear regression model requires four assumptions:
+Additionally, statistical models that are used to analyze collected data also work under assumptions. For example, a simple linear regression model requires four assumptions:
 
 ```
 - E(y) = Xβ
@@ -74,7 +74,7 @@ Without checking these assumptions, we are using the wrong models and generating
 
 Another instance is not considering degrees of freedom, i.e.  measuring how much information we can get from the data: the more variables are included, the less information is left out but our data analysis models can run out of steam if there are too many variables (problem of big data).
 
-To summarise, experiments can be 'dangerous' if we fall into the following pitfalls (not an exhastive list):
+To summarize, experiments can be 'dangerous' if we fall into the following pitfalls (not an exhaustive list):
 
 - Devise wrong metrics (i.e. metrics that don't answer the question at hand)
 - Have no clear scope (i.e. what are the boundaries for the 'system under test')
@@ -84,7 +84,7 @@ To summarise, experiments can be 'dangerous' if we fall into the following pitfa
 - Overlook significant parameters that affect the behaviour of a system
 - Report average and not variability (fall for tricks of statistics or have no statistics!)
 - Have no interpretation of what results mean or overgeneralizing conclusions
-- Ingore errors and outliers
+- Ignore errors and outliers
 - Not consider the ethical issues and scenarios or have informed consent from participants
 
 
@@ -124,14 +124,14 @@ Executive buy-in usually requires a thorough risk assessment and contingency pla
 
 Genuine experimentation is about committing to rigorous assessments and evaluation  of evidence, not just freewheeling “trying stuff out” or doing things differently and expecting to  succeed.
 
-Therefore, even though a methodology is key to answering a specific question, the starting point is having a problem you are trying to resolve, preferrably with the social good in mind. The purpose of experimenting is to test key questions and assumptions using quick, low risk experiments. 
+Therefore, even though a methodology is key to answering a specific question, the starting point is having a problem you are trying to resolve, preferably with the social good in mind. The purpose of experimenting is to test key questions and assumptions using quick, low risk experiments. 
 
 From the thousands of experiments conducted by Thomas Edison to create the first lightbulb, or the long-running field experiments by Gregor Mendel to examine genetic variability that today underpins modern agriculture concepts, through to trials in medicine,  carefully testing ideas in practice is a cornerstone of scientific and technological discovery.
 
 
 ## Experiments in the public sphere
 
-Today, experiments are critical to sectors where innovation and optimisation are routine, such as web development, digital transformation, electrical vehicles, etc. This has caught on in business such that the largest financial institutions, retailers and restaurants are also running randomized experiments, along with companies like Google, Facebook, and Amazon running tens of thousands of experiments a year. A/B testing is now the standard means through which Silicon Valley improves its online products. However, in government experimentation remains relatively rare and a new field. 
+Today, experiments are critical to sectors where innovation and optimization are routine, such as web development, digital transformation, electrical vehicles, etc. This has caught on in business such that the largest financial institutions, retailers and restaurants are also running randomized experiments, along with companies like Google, Facebook, and Amazon running tens of thousands of experiments a year. A/B testing is now the standard means through which Silicon Valley improves its online products. However, in government experimentation remains relatively rare and a new field. 
 
 A small but growing movement of policy experimenters are bringing fresh ideas on how to solve public problems. From crafting better services, to making the back-office of government more efficient, new methods and tools need to be used to develop and test policy. In fact, government must rigorously and systematically put policy to the test – or risk stagnation.
 
