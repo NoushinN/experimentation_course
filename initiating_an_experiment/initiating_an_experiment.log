@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.23)  1 SEP 2020 20:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.8.23)  8 SEP 2020 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,7 +473,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count296
 ) (./initiating_an_experiment.aux
 
-LaTeX Warning: Label `communication-matrix' multiply defined.
+LaTeX Warning: Label `the-problem-statement' multiply defined.
 
 )
 \openout1 = `initiating_an_experiment.aux'.
@@ -862,59 +862,154 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 2.
-)
+[3])
 \tf@toc=\write4
 \openout4 = `initiating_an_experiment.toc'.
 
-[3] [4
+[4]
+File: fig/experimentation-rules.png Graphic file (type bmp)
+<fig/experimentation-rules.png>
+[5
 
-]
+] [6] [7] [8]
 Chapter 1.
+File: fig/decision_tree.jpeg Graphic file (type bmp)
+<fig/decision_tree.jpeg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1314) has occurred while \output is active []
 
-[5] [6
-
-]
-Chapter 2.
-[7] [8]
-Chapter 3.
 [9
 
 ]
-Overfull \hbox (6.53003pt too wide) in paragraph at lines 287--289
-[]\TU/lmr/m/n/10 Identify controls and experimental group as well as interventi
-ons/treatments 
+File: fig/experiment_lifecycle.png Graphic file (type bmp)
+<fig/experiment_lifecycle.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[10] [11]
+File: fig/positivity.jpg Graphic file (type bmp)
+<fig/positivity.jpg>
+Missing character: There is no β in font [lmmono10-regular]:!
+Missing character: There is no σ in font [lmmono10-regular]:!
+[12]
+File: fig/modeling_gonewrong.png Graphic file (type bmp)
+<fig/modeling_gonewrong.png>
+File: fig/cellphone_evolution.png Graphic file (type bmp)
+<fig/cellphone_evolution.png>
+[13]
+File: fig/march4science.png Graphic file (type bmp)
+<fig/march4science.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[14] [15]
+Overfull \hbox (101.25pt too wide) in paragraph at lines 306--306
+[]\TU/lmtt/m/n/10 In the context of government agencies, experiments aim to eva
+luate a program, policy,[] 
  []
 
-[10] [11] [12
+
+Overfull \hbox (80.25pt too wide) in paragraph at lines 306--306
+[]\TU/lmtt/m/n/10 or service and test an idea or innovation by investigating wh
+at difference it has[] 
+ []
+
+[16] [17] [18
+
+]
+Chapter 2.
+File: fig/experiment-meme.jpg Graphic file (type bmp)
+<fig/experiment-meme.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19] [20] [21]
+File: fig/experimentation.jpg Graphic file (type bmp)
+<fig/experimentation.jpg>
+[22]
+File: fig/experimental_measurements.jpeg Graphic file (type bmp)
+<fig/experimental_measurements.jpeg>
+[23]
+File: fig/RCT-graphic.png Graphic file (type bmp)
+<fig/RCT-graphic.png>
+[24]
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+File: fig/null.jpg Graphic file (type bmp)
+<fig/null.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[25]
+Missing character: There is no ∆ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+File: fig/samplesize.png Graphic file (type bmp)
+<fig/samplesize.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[26] [27]
+File: fig/data-analysis.jpg Graphic file (type bmp)
+<fig/data-analysis.jpg>
+
+Underfull \vbox (badness 5726) has occurred while \output is active []
+
+[28]
+File: fig/tips.png Graphic file (type bmp)
+<fig/tips.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[29] [30]
+Chapter 3.
+File: fig/team-co-production.png Graphic file (type bmp)
+<fig/team-co-production.png>
+[31
+
+]
+File: fig/buy-in.png Graphic file (type bmp)
+<fig/buy-in.png>
+[32] [33]
+File: fig/CodeOfEthics.jpg Graphic file (type bmp)
+<fig/CodeOfEthics.jpg>
+[34] [35] [36
 
 ]
 Chapter 4.
-[13] [14
+[37]
+File: fig/scenario1.png Graphic file (type bmp)
+<fig/scenario1.png>
+File: fig/scenario2.png Graphic file (type bmp)
+<fig/scenario2.png>
+File: fig/scenario3.png Graphic file (type bmp)
+<fig/scenario3.png>
+[38]
+File: fig/stage1.png Graphic file (type bmp)
+<fig/stage1.png>
+[39] [40
 
 ]
 Chapter 5.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
-[15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 750.
+[41]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 750.
 (./initiating_an_experiment.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 403.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 750.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 750.
 Package rerunfilecheck Info: File `initiating_an_experiment.out' has not change
 d.
-(rerunfilecheck)             Checksum: 9C3E6F0BF1ECB2E8FA242B56C8B01473;3879.
+(rerunfilecheck)             Checksum: 8483C3736310354DF4889F28575E04DA;4671.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17820 strings out of 481691
- 323316 string characters out of 5932081
- 747580 words of memory out of 5000000
- 34670 multiletter control sequences out of 15000+600000
+ 17961 strings out of 481691
+ 326272 string characters out of 5932081
+ 748970 words of memory out of 5000000
+ 34784 multiletter control sequences out of 15000+600000
  541539 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 58i,6n,118p,832b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,6n,118p,832b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on initiating_an_experiment.pdf (15 pages).
+Output written on initiating_an_experiment.pdf (41 pages).
