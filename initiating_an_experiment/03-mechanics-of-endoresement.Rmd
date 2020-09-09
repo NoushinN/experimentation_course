@@ -1,70 +1,26 @@
 # Mechanics of endorsement
 
-## Project timelines and milestones
+## Knowledge co-production 
 
-## Communication matrix 
+Communicating the project with intention to gain the trust and cooperation of project team is an imperative step prior to starting an experimentation process. More and more, we are moving towards knowledge co-production models as one person isn't capable of delivering complex multi-faceted projects. To achieve co-production, clear and intentful communications with team members can affect the success of the project. Buy-in can be difficult to quantify, especially within various stakeholder categories. However, without full buy-in from team members, sponsors and other stakeholders, projects may seem to be progressing smoothly and then suddenly take a sharp turn for the worst, risking the final deliverables and team satisfactions. 
 
-- stakeholder consensus
-
-requirements
-- Use communication matrix to relay information to stakeholders/executive
-- Importance: Why do we need to answer this scientific question now?
-- Novelty: Has this question been answered? Has it been attempted?
-- Impact: What’s the risk, and what's the potential upside?
-- Design: Is the design of the experiment sound? how?
-- Qualifications: What makes this researcher/research uniquely qualified?
-
-Communication of experimentation processes is like an onion, we can start in the middle layer with peers and colleagues and close supporters who can understand the message. From there, your secondary networks help build momentum. Once it's clear your science resonates with people, then you can reach a larger audience through press and media. Read our = link_to "Researcher Guide ", guide_path for more info on the basics of crowdfunding.
-
-
-- Establish a communication matrix
-- Experiment status project updates to whom and how
-- Foster a culture of experimentation in the organization
- Explain the business value of experimentation to decision-makers
-- Establish accountabilities 
-- Frequency and content of communications
-- Structural report updates
-
-
-## Collaboration agreements 
-
-- team support 
-
-## Funding models and budget targets
-
-
-
-## Code of conduct
-
-There are opportunities to experiment even on difficult social issues such as interventions in poverty policies, drug use, or healthy-living interventions. Creating a control group can carry its own risk. If, for example, we are experimenting with a new benefits scheme, having a control group allows us to test whether the scheme has actually achieved its goals, but it also means depriving a group of citizens of an improved service, at least initially. 
-
-
+Below are the main steps for sustainable co-production research.
 <center>
-![](fig/CodeOfEthics.jpg)
+![](fig/team-co-production.png)
 </center>
 
 
-To get around this, a phased policy roll-out can create what’s called a “waiting list” experiment where the control group are the soon-to-have-innovation group. Everybody eventually receives the new policy innovation, negating the risk of push-back from the public. This approach was used by the UK’s Ministry of Housing, Communities and Local Government in their first ever randomized trial on community integration. In 2016, they tested whether English language training could help immigrants engage more in their community.
 
-The results were impressive. They found significant improvements on many social integration outcomes, such as new friendships formed with people from other cultures, and attending more health appointments. The trial helped the Department put together new plans for their 2018 Integrated Communities Green Paper — including a network of conversation clubs and a new English language fund. For others wanting to design their own experiments in the UK Government, there is a Trials Advice Panel run by the Cabinet Office What Works Team who can walk you through the technicalities.
+To improve communication with team members at each stage of a project and to make sure they feel like an important part of a team, the following points may be helpful:
 
-Ethical considerations:
-- Information sharing agreements and memorandums of understanding
-- Identify situations where experimentations are appropriate and relevant
-- Check Institutional Review Board (IRB) approval requirements prior to the launch of the experiment
-- Perform privacy impact assessments
-- Get ethics committee approvals
+1. Identify what motivates the project team and each member individually
+2. Focus on telling the truth about the project, even when it isn't what team members want to hear 
+3. Make sure all team members understand their contribution to the project
+4. Reaffirm goals and communicate progress throughout execution
+5. Remain consistent
+6. Provide positive feedback throughout the process and after the project ends
 
-
-In summary:  
-- Be ethical!
-- Inform users
-- Clear consent of participation
-
-
-
-
-## Executive support
+## Executive buy-in
 
 Once an experimentation plan has been devised, you will need to make a good case as to why the strategy deserves a dedicated budget and resources and what sets this apart from other program initiatives already in place. 
 
@@ -91,5 +47,43 @@ So how do you do it? Below are 3 steps to help in making a convincing case to ob
 - What are your performance deadlines?
 
 
+## Communication matrix tips
 
+Communication of the intent to experiment and the experimentation processes is like an onion. We can start in the inner layer with peers and colleagues and close supporters who can understand the message. From there, your secondary networks help build momentum. Once it's clear your science resonates with people, then you can reach a larger audience such as the executive or to press and media. 
+
+To relay the necessary information about the experimentation plan to stakeholders/executive and to reach consensus, the following points can be considered:
+
+- Why do we need to answer this scientific question now? (_importance_)
+- Has this question been answered? Has it been attempted? (_novelty_)
+- What’s the risk, and what's the potential upside? (_impact_)
+- Is the design of the experiment sound? how? (_design_)
+- What are the timelines and milestones? (_logistics_)
+- What makes this researcher/research team uniquely qualified? (_qualifications_)
+
+## Code of ethics
+
+Concerns about misinformation and the inability to distinguish the contrived from the authentic is growing be it in journalism, marketing, finance, or medicine.
+
+Unlike traditional _observational_ methods where one makes observations about the world, the  _experimental_ approach learns about the world by measuring how it reacts to interventions. Experimental studies raise a host of ethical concerns that social scientists are not always well equipped to deal with. The absence of clear principles to handle complex issues and address ethical implications and unintended consequences can leave teams in a difficult situation, above and beyond whether they receive formal research approval.
+
+There are, however, opportunities to experiment even on difficult social issues such as interventions in poverty policies, drug use, or healthy-living interventions. Creating a control group can carry its own risk. If, for example, we are experimenting with a new benefits scheme, having a control group allows us to test whether the scheme has actually achieved its goals, but it also means depriving a group of citizens of an improved service, at least initially. 
+
+Broadly, ethical concerns can fall into the problem of **audience** (what are the issues), **agency** (who is responsible for interventions), and **consent** (are participants informed and do they consent). Some other points to consider include the following:
+
+
+<center>
+![](fig/CodeOfEthics.jpg)
+</center>
+
+To get around this, a phased policy roll-out can create what’s called a “waiting list” experiment where the control group are the soon-to-have-innovation group. Everybody eventually receives the new policy innovation, negating the risk of push-back from the public. This approach was used by the UK’s Ministry of Housing, Communities and Local Government in their first ever randomized trial on community integration. In 2016, they tested whether English language training could help immigrants engage more in their community.
+
+The results were impressive. They found significant improvements on many social integration outcomes, such as new friendships formed with people from other cultures, and attending more health appointments. The trial helped the Department put together new plans for their 2018 Integrated Communities including a network of conversation clubs and a new English language fund. 
+
+Ethical considerations:
+- Inform users and the study population and get consent of participation
+- Establish information sharing agreements and memorandums of understanding
+- Identify situations where experimentations are appropriate and relevant
+- Perform privacy impact assessments/agreements
+- Get ethics committee approvals
+- Check Institutional Review Board (IRB) approval requirements prior to the launch of the experiment
 

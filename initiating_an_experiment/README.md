@@ -39,6 +39,10 @@ The themes explored in this module are:
   * [collect and analyze data](#collect-and-analyze-data)
   
   
+  
+  
+  
+  
 - [Case study](#case-study)
   * [Background research](#background-research)
   * [The problem statement](#the-problem-statement)
