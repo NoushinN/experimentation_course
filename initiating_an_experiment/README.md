@@ -30,7 +30,6 @@ The themes explored in this module are:
   * [Experiments in the public sphere](#experiments-in-the-public-sphere)
   * [Summary: deciding to experiment](#summary--deciding-to-experiment)
   
-  
 - [Experiment components](#experiment-components)
   * [The problem statement](#the-problem-statement)
   * [Determine interventions](#determine-interventions)
@@ -38,10 +37,11 @@ The themes explored in this module are:
   * [Experimental design(s)](#experimental-design-s-)
   * [collect and analyze data](#collect-and-analyze-data)
   
-  
-  
-  
-  
+- [Mechanics of endorsement](#mechanics-of-endorsement)
+  * [Knowledge co-production](#knowledge-co-production)
+  * [Executive buy-in](#executive-buy-in)
+  * [Communication matrix tips](#communication-matrix-tips)
+  * [Code of ethics](#code-of-ethics)
   
 - [Case study](#case-study)
   * [Background research](#background-research)
