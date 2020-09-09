@@ -1,5 +1,5 @@
 `r if (knitr::is_html_output()) '
-# References {-}
+# References 
 '`
 
 - [City of Vancouver Solution Lab’s Principles of Experimentation](https://vancouver.ca/files/cov/navigating-complexity-solutions-lab.pdf), adapted from [Nesta’s Innovation Playbook](https://www.nesta.org.uk/toolkit/playbook-for-innovation-learning/)  
