@@ -1,17 +1,18 @@
+
 # Before starting an experiment
 
 ## Do we need to experiment? 
 
-To embark on an `experimentation project`, we really need to consider whether an _experimentation_ is needed in the first place. One way of determining this is to consider whether out of the many questions that a team has come up with, are there any that require a specific answer to a very specific question? And is the answer worthy to know? If we are after questions that are not causal in nature, then an experiment is likely not the best fit.
+To embark on an `experimentation project`, we really need to consider whether _experimentation_ is needed in the first place. One way of determining this is to consider whether there is a very specific question that requres a specific answer? And, is the answer worthy to know? If we are after questions that are not causal in nature, then an experiment is likely not the best fit.
 
 At this point in the **experimentation cycle**, there are more questions than answers and the more questions one asks, the more clarifying answers one will seek on whether an experiment is really needed. 
 
-_What would experimentation look like in policy or practice? why would an experiment be worth investing in? what data or program performance tracking is already in place? what experimental tools are available and whether and when they might fall short? what are the risks? What could be a risk management strategy?_
+_What would experimentation look like in policy or practice? why would an experiment be worth investing in? What data or program performance tracking is already in place? What experimental tools and expertise are available and are they sufficient? What are the risks? What could be a risk management strategy?_
 
 **Decision tree** 
 
 To help make whether an experiment is needed and set one's direction, the following decision tree from Nesta is a great starting point for a project journey. In this journey, only the two red bubbles refer to an experiment. The rest are only explorations or validations. 
-What makes the two red bubbles an experiment? what do they have in common? 
+What makes the two red bubbles an experiment? What do they have in common? The two red bubbles focus on the trial and error to find out what works and what doesn't, which is central to any experimental project.
 
 <center>
 ![](fig/decision_tree.jpeg)
@@ -22,7 +23,7 @@ What makes the two red bubbles an experiment? what do they have in common?
 
 > A problem well-stated is half-solved!
 
-To help others understand the problem as we see it, the question needs to be well framed and the goals clearly articulated. To help formulating the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general observations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders
+To help others understand the problem as we see it, one of the first things an experiment needs is well-framed question and clearly articulated goals. To help formulate the `why` as well as the `what`, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general observations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders
 
 
 <center>
@@ -34,7 +35,7 @@ This lifecycle presumes that we can:
 - sketch out what information we need to collect (or already have) to get from a vague idea to the hypothesis stage for a planned project
 - get invested in the problem before the solution nor in a particular result (any biases will work against us here)
 - not get stuck in a fishing expedition (i.e. grouping ideas forever)
-- understand the problem well enough to crisply articulate the goals, questions, and hypotheses before building metrics.
+- understand the problem well enough to clearly articulate the goals, questions, and hypotheses before building metrics
 - select metrics that will help answer the questions. This can include system parameters, workload parameters, behaviours, etc. `“If all you have is a hammer, everything looks like a nail.” - Bernard Baruch`
 - identify parameters that affect behaviour or observations and decide which parameters or interactions to study, or vary.
 
@@ -44,12 +45,12 @@ This lifecycle presumes that we can:
 
 Every positive side comes with a negative one, and so no design is really perfect. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. One single experimental design cannot be comprehensive and all-encompassing. Additionally, we cannot control for the many factors and behaviours that may affect a situation. 
 
-Therefore, since all models are wrong, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer a research question, and not try to tailor the research question to the method at hand. 
+Therefore, since all models are wrong to some extent, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer the research question, and not try to tailor the research question to the method at hand. 
 
 For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can badly fail in several aspects: 
 (1) people act differently when they realize they are under study. If asked about questions on sensitive topics (e.g., homosexuality, immigration, abortion, or Donald Trump), people understand there is a “standard” answer and so, they may hide their true feelings and give socially acceptable answers.
 (2) having a representative sample is difficult and expensive. In social sciences, one of the basis of experiments is recognizing regional diversity (e.g. British Columbia is different from Ontario and Ontario is different from Quebec). This can affect the interpretation of our findings and their generalizability.
-(3) determining the causal relations between two events is usually the goal of experimentation. However, direction of causal inference in social situations can be problematic. Traditional quantitative methods are particularly ill-designed for causal questions when the answer can go in either directions. A solution here is a carefully designed experiment with control groups
+(3) determining the causal relations between two events is usually the goal of experimentation. However, direction of causal inference in social situations can be problematic. Traditional quantitative methods are particularly ill-designed for causal questions when the answer can go in either directions. A solution here is a carefully designed experiment with control groups, more on this later.
 
 <center>
 ![](fig/positivity.jpg){width=80%}
@@ -98,9 +99,9 @@ Experimentation is not all bad news. Many breakthroughs and transformations on m
 ![](fig/cellphone_evolution.png){width=80%}
 </center>
 
-There are also many pros to experimentation. For instance, experiments can result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. This is great to know and invest in as a business.
+There are also many advantages to experimentation. For instance, experiments can result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. 
 
-Experimentation can be good even without prior knowledge. This is because sometimes there may not be a theory or theories may fall short to start with. Since an experimentation can directly control how data is generated, the experimental approach can survive and thrive with no previous knowledge. For instance, with no prior knowledge, electoral researchers can carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
+Experimentation can be good even without prior knowledge. This is because sometimes there may not be a theory or theories may fall short to start with. Since experimentation can directly control how data is generated, the experimental approach can survive and thrive with no previous knowledge. For instance, with no prior knowledge, electoral researchers can carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
 
 Experimentation can help clarify mixed results. This is sometimes inherent in observations that are looking at similar phenomena with different measurements or with different data sources. Observational studies often generate mixed results and one way to validate or clarify the existing mixed result is to run an experiment. Again with the example of electoral politics, researchers can chose to run an experiment to detect how campaign spending affects the voters for the incumbent and the challengers differently.
 
@@ -114,17 +115,17 @@ Experimentation can help clarify mixed results. This is sometimes inherent in ob
 
 Given that we are considering the option to experiment, we need to have clear and open communications and collaborations with cross-functional teams. 
 
-The aim is to get feedback from as many diverse people as possible. These conversations can not only help us decide which ideas to take forward, but also reiterate clear questions based on feedbacks, and eventually implement in an experimentation proposal. 
+The aim is to get feedback from as many diverse people as possible. These conversations can help us decide which ideas to take forward, reiterate clear questions based on feedbacks, and eventually implement in an experimentation proposal. 
 
 These conversations presumes that there is already an executive level buy-in in place and that stakeholders are invested in the experimentation process. This also assumes that a clear and thoughtful design and implementation plan exists before starting to communicate such that it can be communicated wholly and incrementally with the executives. This is not a tautology and hopefully drive the point that iteration, re-iteration, agility, and an open attitude are key qualities in the initial process.
 
-Executive buy-in usually requires a thorough risk assessment and contingency plans more so in the public service space than in academic environments. Therefore, it is important that the executive is aware of the experimentation cycle which can also be thought of as the problem-solving process and endorses the method, approach, tests, and tools that generate evidence. Some, in fact, argue that experimentation is the creation of something new in the face of uncertainty and risk.
+Executive buy-in usually requires a thorough risk assessment and contingency plans more so in the public service space than in academic environments. Therefore, it is important that the executive is aware of the experimentation cycle which can also be thought of as the problem-solving process and endorses the method, approach, tests, and tools that generate evidence. Some, in fact, argue that experimentation is the creation of something new in the face of uncertainty and risk, which requires time, effort and relevant resources.
 
 > It is noteworthy that the word “experimental” has come to mean “innovative” or “radical” rather than simply “untested”. [The Experimenter's Inventory](A catalogue of experiments for decision-makers and professionals)
 
 Genuine experimentation is about committing to rigorous assessments and evaluation  of evidence, not just freewheeling “trying stuff out” or doing things differently and expecting to  succeed.
 
-Therefore, even though a methodology is key to answering a specific question, the starting point is having a problem you are trying to resolve, preferably with the social good in mind. The purpose of experimenting is to test key questions and assumptions using quick, low risk experiments. 
+Therefore, even though a methodology is key to answering a specific question, the starting point is having a problem you are trying to resolve, preferably with the social good in mind. The purpose of experimenting is to test key questions and assumptions using quick, low risk, rigorous experiments. 
 
 From the thousands of experiments conducted by Thomas Edison to create the first lightbulb, or the long-running field experiments by Gregor Mendel to examine genetic variability that today underpins modern agriculture concepts, through to trials in medicine,  carefully testing ideas in practice is a cornerstone of scientific and technological discovery.
 

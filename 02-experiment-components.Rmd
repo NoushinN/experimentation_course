@@ -44,13 +44,13 @@ The problem statement you develop should be clear and precise, but also scoped i
 
 In a government context, the right scale and scope of the experiment will be dictated by what decision-makers need to know coupled with the various practical constraints that inevitably come along through the design process. 
 
-In general, this step will help us make the proposal more mutually exclusive and collectively exhaustive, **MECE**. By the end of this process, more so that before, we will be able to make statements that do not overlap in content and fully describe the problem at the highest level.
+In general, this step will help us make the proposal more mutually exclusive and collectively exhaustive, **MECE**. By the end of this process, more so than before, we will be able to make statements that do not overlap in content and fully describe the problem at the highest level.
 
 **Step 4: Seek collaboration**
 1. Make sure the question is one that other people can get behind and support
 2. Establish collaboration agreements and executive buy-in
 3. Peer-review for clarity, scientific accuracy, and feasibility
-4. Does the team have the expertise required to complete the project? If not, who else needs to be on team
+4. Does the team have the expertise required to complete the project? If not, who else needs to be on team?
 
 Figuring out the problem will take time, and needs to be done in consultation with as many parties directly or indirectly potentially impacted by the experiment’s results. Before starting the problem definition stage, you should take time to discuss alongside colleagues, management and others (experts and practitioners, current users) what exactly you wish you fix.
 
@@ -159,7 +159,7 @@ There are often softwares that help statisticians decide what sample size and po
 Statistical power is a measure of the likelihood that a researcher will find statistical significance in a sample if the effect exists in the full population. Power is a function of three primary factors: sample size, effect size, significance level.
 
 
-## collect and analyze data 
+## Collect and Analyze data 
 
 At this point, we have a problem, and intervention, a research plan, and data collection strategies. Therefore, we are ready to start implementing the experimental design to collect the data and then analyze it.
 
@@ -178,9 +178,9 @@ Devote some time to review the results. What happened after you implemented the 
 
 As you interpret the results, ask yourself these key questions:
 
-- Does the data answer your original question? How?
-- Does the data help you defend against any objections? How?
-- Are there any limitation on your conclusions, any angles you haven’t considered?
+- Does the data answer the original question? How?
+- Does the data help defend against any objections? How?
+- Are there any limitations to draw conclusions, any factors that haven't been considered?
 
 <center>
 ![](fig/data-analysis.jpg)
