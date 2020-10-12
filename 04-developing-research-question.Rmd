@@ -44,6 +44,8 @@ As you continue researching, narrowing your broad question into a more refined q
 
 Good research questions usually do not have one-sentence or factual answers. Unfortunately, this eliminates many who, what, and when questions. Good empirical research questions are not ones where you could get the answer from a publicly available source like Wikipedia, or by asking one knowledgeable person. Best research often comes from the best questions, this is why it is ok to spend more time to develop a specific meaningful research question that addresses a gap.
 
+
+## Narrowing the topic
 Once you have developed a research question, consider evaluating it to identify what parts are too broad or too narrow and find a way to rephrase the question to get to a single experimentation project.
 
 
