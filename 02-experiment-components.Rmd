@@ -23,7 +23,7 @@ Variables are also a key part of an experiment. A _variable_ is anything you can
 
 It is also important to be aware that there may be other variables that might influence the results of an experiment. There is another kind of variables that might influence the outcome called the extraneous variable. Extraneous variables are variables that might affect the relationships between the independent variable and the dependent variable; experimenters usually try to identify and control for these variables. For instance, they can include demand characteristics (which are clues about how the participants should respond) and experimenter effects (which is when the researchers accidentally provide clues about how a participant will respond). When an extraneous variable cannot be controlled for in an experiment, it is known as a confounding variable. 
 
-The main steps in running an experiment is depicted in the following figure:
+The main steps in running an experiment is depicted in the following figure. It is useful to know the steps but in this module, we will only focus on the problem statement (step 1).
 <center>
 ![](fig/running-experiment.png)
 </center>
