@@ -1,9 +1,29 @@
 
-# Before starting an experiment
+# Deciding to experiment
+
+## What is an experiment?
+An experiment is a procedure designed to test a hypothesis as part of the scientific method.
+The two key variables in any experiment are the independent (explanatory) and dependent (response) variables. The independent variable is controlled or changed to test its effects on the dependent variable. Three key types of experiments are controlled experiments, field experiments, and natural experiments.
+
+
+**Controlled Experiments:** Lab experiments are controlled experiments, although you can perform a controlled experiment outside of a lab setting! In a controlled experiment, you compare an experimental group with a control group. Ideally, these two groups are identical except for one variable, the independent variable.
+
+**Field Experiments:** A field experiment may be either a natural experiment or a controlled experiment. It takes place in a real-world setting, rather than under lab conditions. For example, an experiment involving an animal in its natural habitat would be a field experiment.
+
+**Natural Experiments:** A natural experiment also is called a quasi-experiment. A natural experiment involves making a prediction or forming a hypothesis and then gathering data by observing a system. The variables are not controlled in a natural experiment.
+
+> To summarize: an experiment is simply the test of a hypothesis. A hypothesis, in turn, is a proposed relationship or explanation of phenomena.
 
 ## Do we need to experiment? 
 
-To embark on an `experimentation project`, we really need to consider whether _experimentation_ is needed in the first place. One way of determining this is to consider whether there is a very specific question that requres a specific answer? And, is the answer worthy to know? If we are after questions that are not causal in nature, then an experiment is likely not the best fit.
+To embark on an `experimentation project`, we really need to consider whether _experimentation_ is needed in the first place. One way of determining this is to consider whether there is a very specific question that requires a specific answer? And, is the answer worthy to know? If we are after questions that are not causal in nature, then an experiment is likely not the best fit. 
+Making observations or trying something after making a prediction about what you expect will happen, is a type of experiment. For example, predicting/hypothesizing that your coffee will taste sweeter after the addition of sugar and then going ahead to testing that is an experiment.
+
+The following examples, on the other hand, are not experiments:
+- making a model dashboard  
+- making a poster
+- changing many factors at once, so one can't truly test the effect of the variables
+- trying something, just to see what happens. 
 
 At this point in the **experimentation cycle**, there are more questions than answers and the more questions one asks, the more clarifying answers one will seek on whether an experiment is really needed. 
 

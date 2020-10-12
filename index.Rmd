@@ -20,7 +20,7 @@ This  is a repository to house course materials related to module 2 of Governmen
 ![](fig/experimentation-rules.png)
 </center>
 
-I hope this resource will be useful in clarifying **when** to experiment, **what** experiments are useful and **why**, **which** pitfals to consider, as well as simplifying scientific and technological jargon and  common misperceptions. As innovators seeking social good, we have a duty to put our ideas to test and discover what doesn’t work, what does, and find out how to improve people’s lives.
+I hope this resource will be useful in clarifying **when** to experiment, **which** experiments are useful and **why**, **what** pitfals to consider, as well as simplifying scientific and technological jargon and common misperceptions. As innovators seeking social good, we have a duty to put our ideas to tests of assessments and evaluations to discover what doesn’t work, what does, and find out how to improve people’s lives.
 
 I am tremendously grateful for the mentorship I have received from the EW2 leading team (Pierre-Olivier Bedard, Dan Monafu, and Sarah Chan) as well as the graphical design work lead by Jordana Globerman.
 
@@ -40,26 +40,31 @@ A team of knowledgeable partners with expertise in experimentations methodologie
 
 ## Themes
 
-We will explore the following themes in this module to help us answer the question of what we need to consider before starting an experiment: (1) opportunities to experiment in government, and (2) designing experiments as part of existing programs/services.
+We will explore the following themes in this module to help us answer the question of what we need to consider before starting an experiment: (1) opportunities to experiment in government, and (2) identifying problems and devising hypotheses as part of existing programs/services.
 
 ## Learning objectives
 
 By the end of this module, you will be able to:
 
 - Identify the steps needed before starting an experimental project
-- Devise a problem statement for the project and design a research experiment
+- Devise a problem statement for an experimental project 
+- Develop a research question 
+- Share the project with stakeholders and get buy-in
 - Apply experimentation knowledge to specific examples, cases and scenarios
 
 ## Outline
 
 | Chapter | Title | 
 |---------|---------|
-| 1 | Before initiating an experiment | 
-| 2 | Components of an experimental project |
-| 3 | Mechanics of endorsement | 
-| 4 | Case studies | 
-| 5 | References | 
+| 1 | Deciding to experiment | 
+| 2 | Experiment components |
+| 3 | Defining the problem |
+| 4 | Developing a research question |
+| 5 | Mechanics of endorsement | 
+| 6 | Examples of Experimentation | 
+| 7 | References | 
  
+
 
 
 
