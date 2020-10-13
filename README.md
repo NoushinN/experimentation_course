@@ -61,7 +61,7 @@ The themes explored in this module are:
 
 # Table of content
 
-- [Preface {-}](#preface----)
+- [Preface {-}](#preface)
   * [Prerequisites](#prerequisites)
   * [Themes](#themes)
   * [Learning objectives](#learning-objectives)

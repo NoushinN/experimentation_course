@@ -5,6 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
+classoption: openany
 github-repo: NoushinN/experimentation_course
 description: "This book contains materials for an introduction to initiating an experiment"
 ---
