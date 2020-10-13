@@ -59,25 +59,30 @@ This lifecycle presumes that we can:
 - select metrics that will help answer the questions. This can include system parameters, workload parameters, behaviours, etc. `“If all you have is a hammer, everything looks like a nail.” - Bernard Baruch`
 - identify parameters that affect behaviour or observations and decide which parameters or interactions to study, or vary.
 
-## What can go wrong?
+## Design considerations
 
 > Don’t land your plane in forests, and don’t do experimental designs before you have considered its drawbacks
 
-Every positive side comes with a negative one, and so no design is really perfect. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. One single experimental design cannot be comprehensive and all-encompassing. Additionally, we cannot control for the many factors and behaviours that may affect a situation. 
+It is important to keep in mind that no experimental design is really perfect in that it can consider all aspects of an issue. This is not to discourage us. In a way, George Box's (British statistician) quote that "All models are wrong, but some are useful" applies to experimental designs as well. 
+As long as we remember that one single experimental design cannot be comprehensive and all-encompassing and that it is ok to be specific and clear about limitations. A perfect design doesn't exist because we cannot possibly control for the many factors and behaviours that may affect a situation. 
 
 Therefore, since all models are wrong to some extent, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer the research question, and not try to tailor the research question to the method at hand. 
 
-For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can badly fail in several aspects: 
+For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can fail in several aspects: 
 (1) people act differently when they realize they are under study. If asked about questions on sensitive topics (e.g., homosexuality, immigration, abortion, or Donald Trump), people understand there is a “standard” answer and so, they may hide their true feelings and give socially acceptable answers.
 (2) having a representative sample is difficult and expensive. In social sciences, one of the basis of experiments is recognizing regional diversity (e.g. British Columbia is different from Ontario and Ontario is different from Quebec). This can affect the interpretation of our findings and their generalizability.
 (3) determining the causal relations between two events is usually the goal of experimentation. However, direction of causal inference in social situations can be problematic. Traditional quantitative methods are particularly ill-designed for causal questions when the answer can go in either directions. A solution here is a carefully designed experiment with control groups, more on this later.
 
-<center>
-![](fig/positivity.jpg){width=80%}
-</center>
+Nevertheless, experiments can produce many types of evidence that can be used in program and policy designs. With sufficient sample sizes, for example, randomised control trials can provide useful evidence through pre- and post-experiment analysis. 
 
+For example, a behavioural insights group examined the effect of nudges on health and wellbeing and demonstrated a massive effect _default choices_ have on organ donation compliance rates. Those
+countries where people are required to opt-out of organ donation report significantly higher consent than those with an opt-in policy (Johnson & Goldstein (2003), Do Defaults Save Lives?, Science, Vol. 302).  
 
-Additionally, statistical models that are used to analyze collected data also work under assumptions. For example, a simple linear regression model requires four assumptions:
+Another example is another group who examined whether manipulating the positon of food on a restaurant
+menu would have any effect on consumer choices. They found that items placed at the beginning or end of the menu were up to twice as popular as when the same items were placed in the centre of the menu (Dayan & Hillel (2011), Nudge to nobesity II: Menu positions influence food orders, Judgment and Decision Making).
+
+# Examine Assumptions and account for Pitfalls
+Before designing and running experiments, it helps to examine our assumptions about the topic and clearly track and communicate them. In a similar fashion, statistical models that are later used to analyze collected data also work under assumptions. For example, a simple linear regression model requires four assumptions:
 
 ```
 - E(y) = Xβ
@@ -86,16 +91,17 @@ Additionally, statistical models that are used to analyze collected data also wo
 - Normality
 ```
 
-Without checking these assumptions, we are using the wrong models and generating misguided insights or misinformation. Thus, relying on models can also have un-intended consequences.
+Without checking these assumptions, we are using the wrong models and generating misguided insights or misinformation. Thus, to reduce reliance on models with un-intended consequences, we need to clearly and transparently examine our assumptions about the topic of interest.
 
 <center>
 ![](fig/modeling_gonewrong.png){width=80%}
 </center>
 
 
-Another instance is not considering degrees of freedom, i.e.  measuring how much information we can get from the data: the more variables are included, the less information is left out but our data analysis models can run out of steam if there are too many variables (problem of big data).
+Another consideration is measuring how much information we need and can get from an experiment (degrees of freedom). Generally, the more variables are included, the less information is left out. 
+In contrast, our data analysis models can run out of steam if there are too many variables (problem of big data). Thus, we need to strike a balance between information/data gathering and analysis methods.
 
-To summarize, experiments can be 'dangerous' if we fall into the following pitfalls (not an exhaustive list):
+To summarize, experiments can be more prone to failure if disregard the following points (not an exhaustive list):
 
 - Devise wrong metrics (i.e. metrics that don't answer the question at hand)
 - Have no clear scope (i.e. what are the boundaries for the 'system under test')
@@ -113,13 +119,15 @@ To summarize, experiments can be 'dangerous' if we fall into the following pitfa
 
 > Evidence-based policy making can be a political ideal 
 
-Experimentation is not all bad news. Many breakthroughs and transformations on many fronts from medicine and technology to social changes for good have come about by a willingness to experiment. For example, the following:
+Experimentation is not all bad news. Many breakthroughs and transformations on many fronts from medicine and technology to social changes for good have come about by a willingness to experiment. For example, experimentation with design of cell phones has resulted in ease of their usability in time.
 
 <center>
 ![](fig/cellphone_evolution.png){width=80%}
 </center>
 
 There are also many advantages to experimentation. For instance, experiments can result in a higher degree of internal validity. Through random assignment of a treatment condition, experimental designs allow us to examine the effect of one variable while keeping other conditions constant. Note that randomization is the key here because it ensures that the treatment and control groups are comparable. Any differences between the two groups can be attributed to the treatment. 
+
+For instance, a group in the U.K. tested differ letter framings on the tax reported behaviour of over 7,300 sole proprietors. The different treatments were offers of assistance with tax forms, rational argument and threats of audit. By and large, the treatments proved effective at encouraging taxpayers to declare more, with the threat messages being the most effective (Hasseldine et al. (2007), Persuasive Communications: Tax Compliance Enforcement Strategies for Sole Proprietors, Contempory Accounting Research).
 
 Experimentation can be good even without prior knowledge. This is because sometimes there may not be a theory or theories may fall short to start with. Since experimentation can directly control how data is generated, the experimental approach can survive and thrive with no previous knowledge. For instance, with no prior knowledge, electoral researchers can carry out a field experiment to examine how different ways of contacting voters would affect the voting turnout.
 
@@ -154,7 +162,14 @@ From the thousands of experiments conducted by Thomas Edison to create the first
 
 Today, experiments are critical to sectors where innovation and optimization are routine, such as web development, digital transformation, electrical vehicles, etc. This has caught on in business such that the largest financial institutions, retailers and restaurants are also running randomized experiments, along with companies like Google, Facebook, and Amazon running tens of thousands of experiments a year. A/B testing is now the standard means through which Silicon Valley improves its online products. However, in government experimentation remains relatively rare and a new field. 
 
+One of the most famous nudge experiments is the ‘Save More Tomorrow’ (SMarT) program that used defaults to increase employees’ savings rates by automatically increasing the percentage of their wage devoted to saving. Average saving rates for SMarT program participants increased from 3.5% to 13.6% over the course of 40 months while savings rates remained stagnant in the other two conditions (Benartzi & Thaler (2004), Save More Tomorrow, Journal of Political Economy).
+
 A small but growing movement of policy experimenters are bringing fresh ideas on how to solve public problems. From crafting better services, to making the back-office of government more efficient, new methods and tools need to be used to develop and test policy. In fact, government must rigorously and systematically put policy to the test – or risk stagnation.
+
+For example, a group conducted three field experiments looking at increasing savings with
+text message reminders and found that goal-specific reminders were considerably more effective than
+generic ones (Karlan et al. (2010), Getting to the Top of Mind: How Reminders Increase Saving,
+NBER Working Paper).
 
 ```
 In the context of government agencies, experiments aim to evaluate a program, policy, 

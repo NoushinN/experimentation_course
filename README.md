@@ -66,8 +66,9 @@ The themes explored in this module are:
   * [Themes](#themes)
   * [Learning objectives](#learning-objectives)
   * [Outline](#outline)
-  
-- [Before starting an experiment](#before-starting-an-experiment)
+ 
+- [Deciding to experiment](#deciding-to-experiment)
+  * [What is an experiment?](#what-is-an-experiment-)
   * [Do we need to experiment?](#do-we-need-to-experiment-)
   * [The experimentation cycle](#the-experimentation-cycle)
   * [What can go wrong?](#what-can-go-wrong-)
@@ -75,13 +76,21 @@ The themes explored in this module are:
   * [Communication of intent to experiment](#communication-of-intent-to-experiment)
   * [Experiments in the public sphere](#experiments-in-the-public-sphere)
   * [Summary: deciding to experiment](#summary--deciding-to-experiment)
-  
+
 - [Experiment components](#experiment-components)
+  * [Experiment basics](#experiment-basics)
+  
+- [Defining the problem](#defining-the-problem)
   * [The problem statement](#the-problem-statement)
   * [Determine interventions](#determine-interventions)
   * [Determine outcomes](#determine-outcomes)
   * [Experimental design(s)](#experimental-design-s-)
-  * [collect and analyze data](#collect-and-analyze-data)
+  * [Collect and Analyze data](#collect-and-analyze-data)
+  
+- [Developing a research question](#developing-a-research-question)
+  * [The SMART strategy](#the-smart-strategy)
+  * [The five W's](#the-five-w-s)
+  * [Narrowing the topic](#narrowing-the-topic)
   
 - [Mechanics of endorsement](#mechanics-of-endorsement)
   * [Knowledge co-production](#knowledge-co-production)

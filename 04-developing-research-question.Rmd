@@ -12,6 +12,9 @@ Each of the design choices depend on these crucial first steps – so don’t ru
 
 The characteristics of a good research question, assessed in the context of an intended experimental design, are that it be feasible, interesting, novel, ethical, and relevant. A good research question is often focused on a single topic or on several closely related ideas. If it isn't, you won't end up with a good design. If a question is too general or doesn't stay on one topic, you can fix it by deciding which part of the topic you want to research.
 
+For example, insurance companies usually struggle with honesty issues in their clients. In the case of car insurance, there is often a financial incentive to report less miles driven since reporting more would mean you would pay more (i.e. a higher number implies more honesty). The research question in this case was how the team can implement ways to prime honesty in the client group. The researchers sought to prime honesty by asking people to sign at the start of a form rather than the end when reporting how many miles they had driven on their car for insurance purposes. 
+The rest relates to experimental design and in fact the results indicated that the treatment (those who got the form with signature at the beginning) to be effective at inducing more honest declarations (Shu et al. (2012), Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end, PNAS vol. 109).
+
 > A good research topic is broad enough to allow you to find plenty of material, but narrow enough to fit within the size and time constraints of your experiment
 
 ## The SMART strategy

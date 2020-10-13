@@ -35,6 +35,8 @@ The problem doesn’t always need to be causal in nature, in which case perhaps 
 
 The problem statement you develop should be clear and precise, but also scoped into a relevant policy area that is within your reach (in terms of jurisdiction, for instance). A problem that has too little impact to be deemed important is likely not a great fit, nor is a problem with little decision-making implications very useful to be explored. Similarly,  problem statements that are too vague need to be modified so that they’re scoped appropriately. 
 
+For instance, a paper looks at framing effects in healthcare and asks whether patients preference for a therapy change by having positive contextual information? (a specific and clear problem statement)
+In this case, they tell a group of patients that that **90%** of those who have a certain operation are alive after five years. These patients are more likely to chose the operation than when they are told that after five years, **10%** of patients are dead (McNeil et al. (1982), On the elicitation of preferences for alternative therapies, New England Journal of Medicine).
 
 **Step 3: Find Resources**
 1. How do we design a research proposal that builds on existing knowledge to address critical questions? 
@@ -62,11 +64,9 @@ Each of the steps above should be completed before moving on to the next one. Ho
 
 It’s important to be clear what the different experimental designs can and can’t tell us. What sets observational studies apart from experimental studies is that there is a component of **intervention** in experimentation. 
 
+Fore instance, a group looked at encouraging healthier eating in school lunchrooms through strategic placement of certain foods (interventions). One of two lunch lines was arranged so as to display healthier foods. In the healthier line, sales of healthier food increased by 18% and grams of less healthy food consumed decreased by 28% (Hanks et al. (2012), Healthy Convenience:Nudging Students Toward Healthier Choices in the Lunchroom, Journal of Public Health.)
 
-<center>
-![](fig/experimentation.jpg)
-</center>
-
+Another group did something similar and found other interventions like making the food harder to reach or changing the serving utensil at a salad bar from a spoon to tongs reduced intake of unhealthy food by 8-16% (Rozin et al. (2011), Nudge to nobesity I: Minor changes in accessibility decrease food intake, Judgment and Decision Making). 
 
 Only certain experimental designs are helpful for learning about impact and effectiveness of an intervention. Therefore, we need to select a design that best tells us whether or not our new idea is really making a difference. This approximates a controlled experiment of basic science.
 When setting up an experimental design, we need to think about what the intervention (treatment) might look like in our program/ operation. It is helpful to think of interventions as steps that help us evaluate the direct impacts of treatment or preventive measures on a situation.  
@@ -94,11 +94,20 @@ An outcome measure, endpoint, effect measure or measure of effect is a measure w
 
 Also of note is that experimental studies are usually randomized, meaning the subjects are grouped by chance and we study what happens to people in each group (treatment and control). Any difference in outcomes can then be linked to the intervention.
 
+For instance, an old and reasonably famous paper studied the intervention of priming in a wine shop. By playing French or German music in the background, sales of French and German wine seemed to be significantly affected (North (1997), Instore Music Affects Product Choice, Nature). In this case, the intervention is applied randomly to one group of customers and not to another.
+
 <center>
 ![](fig/RCT-graphic.png)
 </center>
 
-For instance, a well designed randomized control trial (RCT) provides a strong evidence that a given intervention can postulate effectiveness or safety. A RCT is best used when we need to draw conclusions on causality but there are many other experimental designs we can draw on and this will be discussed in Module 3.
+For instance, a well designed randomized control trial (RCT) provides a strong evidence that a given intervention can postulate effectiveness or safety. A RCT is best used when we need to draw conclusions on causality. 
+
+An example is when General Electric wanted its employees to stop smoking. A team ran a RCT where the treatment group received cash incentives to quit. The control group received no incentives.
+Quitting for 6 months earned you $250, and quitting for 12 months $400. The treatment group had 3 times the success rate of the control, an effect which persisted even after financial incentives were
+discontinued after 12 months (Volpp et al. (2009), A randomized, controlled trial of financial incentives for smoking cessation, New England Journal of Medicine).
+
+
+There are other experimental designs that will be discussed in Module 3.
 
 > It helps to think of outcome measures through visualization of outcomes / prototypes
 
@@ -107,6 +116,11 @@ As well as increasing our understanding of what experimental design to use when,
 Prototyping emphasizes front-loading risk and creating a solution with a better chance of success through stakeholder engagement. Using plastic Lego bricks to build prototypes of engineering products is a low-fi, low-resource way of making early operational or design issues obvious. But it won’t tell you whether or not the new system works in real life, or at scale.
 
 When designing prototypes, we should think of implementing an intervention to measure the outcomes. For this, we need an independent variable or the factor that is manipulated, changed, or intervened. This is usually a variable that is placed on x-axis when grouping. We also need a dependent variable or the factor that is being measured and usually placed on y-axis during grouping and visualization. 
+
+For instance, a group examined the average donations received when participants (n=159) were presented with an identifiable victim (a girl named Rokia) versus a dry statistical overview of the
+problem. The greatest amount of donations were elicited by Rokia alone, even more so than a combination of statistics and a picture of Rokia (Small et al. (2007), Sympathy and callousness: The impact of
+deliberative thought on donations to identifiable and statistical victims, Organizational Behavior and Human Decision Processes). 
+In this case, the outcome being measured here is 'donations'. One group is exposed to Rokia, one to statistics, and the other to both Rokia and statistics. We can consider all three as explanatory or independent variables (x-axis) and the donation received as dependant on them (y-axis).
 
 
 ## Experimental design(s) 
@@ -125,7 +139,15 @@ Regardless of what type of experiment we chose to do, it is helpful to think abo
 
 In the case when a real control group is not available, a synthetic control group or a more inventive statistical methods may be useful.
 
+For instance, a Behavioural Insights team worked with Home Retail Group (50,000 staff & 1,079 stores in the U.K.) and Charities Trust to raise charitable giving through a payroll giving scheme. They have an
+automatic escalation program called Xtra Factor which increases donations by 3% per year. However, only 10% of new donors were taking it up.
+By changing the default for the Xtra Factor to opt-out for new donors,the proportion of new
+donors using it jumped from 6% to 49% (Behavioural Insights Team (2013), Applying behavioural insights to charitable giving).
+
+In another example, a team looked at the effects of reducing plate size and providing social cues on food consumption on food waste in hotel restaurants. An example of the latter is a salient sign saying “Welcome back! Again! And again! Visit our buffet many times. That’s better than taking a lot once”. Both treatments proved to be effective at changing eating behavior, reducing food waste by 20% (Kalbekken (2011), 'Nudging' hotel guests to reduce food waste as a win–win, environmental measure, Economics Letters). 
+
 It is also in this step that we determine what information we want to collect, set a timeframe for data collection, and determine the data collection methods.
+
 
 **Source of error considerations**
 - Mind the constants: the conditions that are kept the same for control and experimental groups
