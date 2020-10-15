@@ -30,19 +30,25 @@ I will appreciate to know how this course can be improved and what additional to
 
 A big thanks to Preet Chauhan, EW2 expert, for proof-reading and helping with the many examples.
 
-## Prerequisites
+## Prerequisites / Assumptions
 
 This course is intended for anyone with a curiosity and interest in making scientific observations through experimentation, and does not require previous experience of studying the subject.
 
-An interest in experimentation, willingness to experiment, and an apetite for informed consumation of evidence. It means admitting that we don’t know all the answers but we can put our ideas to test. 
+An interest in experimentation, willingness to experiment, and an appetite for informed consummation of evidence. It means admitting that we don’t know all the answers but we can put our ideas to test. 
 
-Experimentation also necessitates a more mature attitude from leaders and decision-makers, one that is willing to experiment and learn positively from “good failure” rather than pretending we have all the answers.
+Experimentation necessitates a mature attitude from leaders and decision-makers, one that is willing to experiment and learn positively from “good failure” rather than pretending we have all the answers.
 
 A team of knowledgeable partners with expertise in experimentations methodologies with a transparent and  “open-by-default” approach. 
 
 ## Themes
 
 We will explore the following themes in this module to help us answer the question of what we need to consider before starting an experiment: (1) opportunities to experiment in government, and (2) identifying problems and devising hypotheses as part of existing programs/services.
+
+## Recap of Module 1
+- Experimentation is about finding what does and does not work in order to inform decisions.
+- Experimentation can be considered a de-risking strategy – it can be implemented at a small scale to determine impact early on before (costly) scaling.
+- Experimentation is part of a learning process where robust and relevant evidence is gathered in order to inform course corrections, if needed.
+- Experimentation is advantageous over other approaches because it deals more effectively with questions of a causal nature (does X have an impact on Y).
 
 ## Learning objectives
 
@@ -52,7 +58,7 @@ By the end of this module, you will be able to:
 - Devise a problem statement for an experimental project 
 - Develop a research question 
 - Share the project with stakeholders and get buy-in
-- Apply experimentation knowledge to specific examples, cases and scenarios
+- Apply experimentation knowledge to initiate an experiment (example)
 
 ## Outline
 
