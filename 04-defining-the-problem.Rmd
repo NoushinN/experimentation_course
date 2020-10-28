@@ -125,7 +125,9 @@ In this case, the outcome being measured here is 'donations'. One group is expos
 
 ## Experimental design(s) 
 
-Next is to determine if randomization is possible, what the sampling unit and approach might be, how the control group might be set up as well as how many observations are needed based on power calculations.
+The following concepts are going to be explained in more detail in Module 5. Here we only provide a brief description of the topics to consider when considering to start an experiment and managing an experimental project. The main takeaway, we hope, is to consider the expertise needed on an experimentation team. 
+
+These concepts help when we are determining whether randomization is possible, what the sampling unit and approach might be, how the control group might be set up as well as how many observations are needed based on power calculations.
 
 Randomized experiments, or quasi-experimental designs, sometimes couched in deadly technical language, are uniquely valuable. Despite their unfashionable status among some policy wonks and evaluators, we will also highlight the value and utility of Quasi-Experimental designs in the next module. Other approaches may be also be suited to finding out different things, at different stages of developing a policy solution.
 

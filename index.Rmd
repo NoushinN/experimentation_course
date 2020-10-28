@@ -66,11 +66,12 @@ By the end of this module, you will be able to:
 |---------|---------|
 | 1 | Deciding to experiment | 
 | 2 | Experiment components |
-| 3 | Defining the problem |
-| 4 | Developing a research question |
-| 5 | Mechanics of endorsement | 
-| 6 | Examples of Experimentation | 
-| 7 | References | 
+| 3 | Literature Review |
+| 4 | Defining the problem |
+| 5 | Developing a research question |
+| 6 | Mechanics of endorsement | 
+| 7 | Examples of Experimentation | 
+| 8 | References | 
  
 
 
