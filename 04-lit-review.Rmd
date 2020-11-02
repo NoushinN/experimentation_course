@@ -1,0 +1,81 @@
+# Performing a literature review
+
+In this section, we assume that you have already chosen a research topic and are trying to define and narrow the problem statement for an experiment design. 
+
+## What is a literature review?
+A literature review is firstly a search of what has been published on a topic by accredited scholars and researchers. Occasionally a team may be asked to write a literature review before getting the approvals for doing an experiment. The literature review is often in the form of an annotated bibliography, but may also be part of the introduction to a research report or an organization update. In doing a literature review, your purpose is to find what knowledge and ideas have already been established on a topic, and what their strengths and weaknesses are. 
+The literature review is to provide a guiding concept for research and experimentation. Its purpose is to provide a critical written account of the current state of research on a selected topic such that it:
+
+- Identifies areas of prior scholarship  
+- Places each source in the context of its contribution to the understanding of the specific issue, area of research, or theory under review  
+- Describes the relationship of each source to the others that you have selected  
+- Identifies new ways to interpret, and shed light on any gaps in, previous research
+Points the way forward for further research.
+
+The hierarchy of literature review steps is depicted in the figure below and can be further broken down into the following steps:
+
+- Define your subject and the scope of the review.
+- Search the library catalogue, subject-specific databases, and other search tools to find sources that are relevant to your topic
+- Read and evaluate the sources and to determine their suitability to the understanding of the topic at hand 
+- Analyse, interpret, and discuss the findings and conclusions of the sources you selected.
+
+
+<center>
+![](fig/lit-review.png)
+</center>
+
+Besides enlarging your knowledge about the topic, writing a literature review lets you gain and demonstrate skills in two areas
+- information seeking: the ability to scan the literature efficiently, using manual or computerized methods, to identify a set of useful articles and books
+- critical appraisal: the ability to apply principles of analysis to identify unbiased and valid studies.
+A literature review must do these things
+
+be organized around and related directly to the thesis or research question you are developing
+synthesize results into a summary of what is and is not known
+identify areas of controversy in the literature
+formulate questions that need further research
+
+## Assessing the literature review
+
+**Ask yourself questions like these:**
+- What is the specific thesis, problem, or research question that my literature review helps to define?   
+- What type of literature review am I conducting? Am I looking at issues of theory? methodology? policy?   quantitative research (e.g. on the effectiveness of a new procedure)? qualitative research (e.g., studies of loneliness among migrant workers)?   
+- What is the scope of my literature review? What types of publications am I using (e.g., journals, books, government documents, popular media)? What discipline am I working in (e.g., nursing psychology, sociology, medicine)?   
+- How good was my information seeking? Has my search been wide enough to ensure I’ve found all the relevant material? Has it been narrow enough to exclude irrelevant material? Is the number of sources I’ve used appropriate for the length of my paper?  
+- Have I critically analysed the literature I use? Do I follow through a set of concepts and questions, comparing items to each other in the ways they deal with them? Instead of just listing and summarizing items, do I assess them, discussing strengths and weaknesses?  
+- Have I cited and discussed studies contrary to my perspective?  
+- Will the reader find my literature review relevant, appropriate, and useful?   
+
+**Ask yourself questions like these about each book or article you include:**
+- Has the author formulated a problem/issue?  
+- Is it clearly defined? Is its significance (scope, severity, relevance) established?  
+- Could the problem have been approached more effectively from another perspective?  
+- What is the author’s research orientation (e.g., interpretive, critical science, combination)?  
+- What is the author’s theoretical framework (e.g., psychological, developmental, feminist)?  
+- What is the relationship between the theoretical and research perspectives?  
+- Has the author evaluated the literature relevant to the problem/issue? Does the author include literature taking positions she or he does not agree with?  
+- Are the author's arguments supported by empirical evidence (e.g. quantitative/qualitative studies)?  
+- Is the author's perspective too biased in one direction or are opposing studies and viewpoints also considered?  
+- What is the author's expertise in this particular field of study (credentials)?  
+- Does the selected source contribute to a more profound understanding of the subject?  
+- In a research study, how good are the basic components of the study design (e.g., population, intervention, outcome)? How accurate and valid are the measurements? Is the analysis of the data accurate and relevant to the research question? Are the conclusions validly based upon the data and analysis?  
+- In material written for a popular readership, does the author use appeals to emotion, one-sided examples, or rhetorically-charged language and tone? Is there an objective basis to the reasoning, or is the author merely “proving” what he or she already believes?  
+- How does the author structure the argument? Can you “deconstruct” the flow of the argument to see whether or where it breaks down logically (e.g., in establishing cause-effect relationships)?  
+- In what ways does this book or article contribute to our understanding of the problem under study, and in what ways is it useful for practice? What are the strengths and limitations?  
+- How does this book or article relate to the specific thesis or question I am developing?  
+
+## Components of the literature review
+
+The literature review should include the following:
+
+- Objective of the literature review
+- Overview of the subject under consideration 
+- Clear categorization of sources selected into those in support of your particular position, those opposed, and those offering completely different arguments.
+- Discussion of both the distinctiveness of each source and its similarities with the others.
+
+
+## Final Notes:
+A literature review is a piece of discursive prose, not a list describing or summarizing one piece of literature after another. It’s usually a bad sign to see every paragraph beginning with the name of a researcher. Instead, organize the literature review into sections that present themes or identify trends, including relevant theory. You are not trying to list all the material published but to synthesize and evaluate it according to the guiding concept of your thesis or research question.
+
+If you are writing an annotated bibliography, you may need to summarize each item briefly, but should still follow through with themes and concepts and do some critical assessment of the material. Use an overall introduction and conclusion to state the scope of your coverage and to formulate the question, problem, or concept your chosen material illuminates. Usually, you will have the option of grouping items into sections—this helps you indicate comparisons and relationships. You may be able to write a paragraph or so to introduce the focus of each section.
+
+In some government agencies and departments, there are libraries or library services that help with the literature review so you can search for those resources at the experimentation planning stage and perhaps have a dedicated team to perform the literature review before designing the experiment.

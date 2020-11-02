@@ -44,9 +44,11 @@ In this case, they tell a group of patients that that **90%** of those who have 
 3. Perform a systematic literature search by using the keywords you have compiled and use them to search for books in Library Catalogs, blogs, or articles in online databases 
 4. Consult with experts and seek feedback 
 
-In a government context, the right scale and scope of the experiment will be dictated by what decision-makers need to know coupled with the various practical constraints that inevitably come along through the design process. 
+In a government context, the right scale and scope of the experiment will be dictated by what decision-makers need to know coupled with the various practical constraints that inevitably come along through the design process. For a question to be MECE, its different parts CANNOT overlap (Mutually Exclusive). But they need to cover ALL possible causes of the a problem (Collectively Exhaustive).
 
-In general, this step will help us make the proposal more mutually exclusive and collectively exhaustive, **MECE**. By the end of this process, more so than before, we will be able to make statements that do not overlap in content and fully describe the problem at the highest level.
+[Note]: In general, this step will help us make the proposal more mutually exclusive and collectively exhaustive, **MECE**. MECE, pronounced as "me see", is a concept or framework commonly used at top consulting firms to talk about the approach consultants use to solve problems. For example profits in the Canadian market and profits for Westjet, Time Hortons, and Canadian Tire products are not mutually exclusive. However, profits in Canada and European union markets are mutually exclusive. In the same way, the latter isn't mutually exhaustive and profits in Canada, U.S., Europe, Asia, and Africa is a more exhaustive account. MECE frameworks in addition to the resources in general ensure that problems are concisely defined without missing something while also accounting for duplicaiton of work.
+
+By the end of this process, more so than before, we will be able to make statements that do not overlap in content and fully describe the problem at the highest level.
 
 **Step 4: Seek collaboration**
 1. Make sure the question is one that other people can get behind and support
