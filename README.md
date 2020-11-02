@@ -80,6 +80,13 @@ The themes explored in this module are:
 - [Experiment components](#experiment-components)
   * [Experiment basics](#experiment-basics)
   
+- [Performing a literature review](#performing-a-literature-review)
+  * [What is a literature review?](#what-is-a-literature-review-)
+  * [Assessing the literature review](#assessing-the-literature-review)
+  * [Components of the literature review](#components-of-the-literature-review)
+  * [Final Notes:](#final-notes-)
+
+  
 - [Defining the problem](#defining-the-problem)
   * [The problem statement](#the-problem-statement)
   * [Determine interventions](#determine-interventions)
