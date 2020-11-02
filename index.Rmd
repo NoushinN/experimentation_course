@@ -4,7 +4,6 @@ author: "Noushin Nabavi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
-  word_document
 documentclass: book
 classoption: openany
 github-repo: NoushinN/experimentation_course

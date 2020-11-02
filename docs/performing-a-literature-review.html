@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 1 Deciding to experiment | Initiating an Experiment</title>
+  <title>Chapter 5 Performing a literature review | Initiating an Experiment</title>
   <meta name="description" content="This book contains materials for an introduction to initiating an experiment" />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 1 Deciding to experiment | Initiating an Experiment" />
+  <meta property="og:title" content="Chapter 5 Performing a literature review | Initiating an Experiment" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="NoushinN/experimentation_course" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 1 Deciding to experiment | Initiating an Experiment" />
+  <meta name="twitter:title" content="Chapter 5 Performing a literature review | Initiating an Experiment" />
   
   <meta name="twitter:description" content="This book contains materials for an introduction to initiating an experiment" />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="examine-assumptions-and-account-for-pitfalls.html"/>
+<link rel="prev" href="defining-the-problem.html"/>
+<link rel="next" href="developing-a-research-question.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -142,77 +142,86 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="deciding-to-experiment" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> Deciding to experiment</h1>
-<p>Before embarking on the experimentation journey, you should ask the question ‘Do you have to run an experiment?’ As discussed in Module 1, experiments provide answers to very specific questions – they will likely not answer questions that are not causal in nature.</p>
-<p>Designing an implementing an experiment can take time, motivation, skills, and often financial resources. It is not always immediately clear what combination of resources you will need for your experiment, given that they’re not the first thing considered when trying to answer a question.</p>
-<p>Embarking on the experimentation journey will require significant cross-functional collaboration, stakeholder buy-in, and lots of preparatory work – but it all starts with having clear and thoughtful design for your research question, and then landing on an implementation plan before starting.</p>
-<div id="what-is-an-experiment" class="section level2">
-<h2><span class="header-section-number">1.1</span> What is an experiment?</h2>
-<p>An experiment is a procedure designed to test a hypothesis as part of the scientific method.</p>
-<p>Experimentation is often described as a method, approach, a test, a tool to generate evidence. All of these are true, but first and foremost experimentation is a problem-solving process. The starting point for any experiment should be the problem you are trying to solve.</p>
-<p>The two key variables in any experiment are the independent (explanatory) and dependent (response) variables. The independent variable is controlled or changed to test its effects on the dependent variable. Three key types of experiments are controlled experiments, field experiments, and natural experiments.</p>
-<p><strong>Controlled Experiments:</strong> Lab experiments are controlled experiments, although you can perform a controlled experiment outside of a lab setting! In a controlled experiment, you compare an experimental group with a control group. Ideally, these two groups are identical except for one variable, the independent variable.</p>
-<p><strong>Field Experiments:</strong> A field experiment may be either a natural experiment or a controlled experiment. It takes place in a real-world setting, rather than under lab conditions. For example, an experiment involving an animal in its natural habitat would be a field experiment.</p>
-<p><strong>Natural Experiments:</strong> A natural experiment also is called a quasi-experiment. A natural experiment involves making a prediction or forming a hypothesis and then gathering data by observing a system. The variables are not controlled in a natural experiment.</p>
-<blockquote>
-<p>To summarize: an experiment is simply the test of a hypothesis. A hypothesis, in turn, is a proposed relationship or explanation of phenomena.</p>
-</blockquote>
-</div>
-<div id="do-we-need-to-experiment" class="section level2">
-<h2><span class="header-section-number">1.2</span> Do we need to experiment?</h2>
-<p>To embark on an <code>experimentation project</code>, we really need to consider whether <em>experimentation</em> is needed in the first place. One way of determining this is to consider whether there is a very specific question that requires a specific answer? And, is the answer worthy to know? If we are after questions that are not causal in nature, then an experiment is likely not the best fit.
-Making observations or trying something after making a prediction about what you expect will happen, is a type of experiment. For example, predicting/hypothesizing that your coffee will taste sweeter after the addition of sugar and then going ahead to testing that is an experiment.</p>
-<p>The following examples, on the other hand, are not experiments:<br />
-- making a model dashboard<br />
-- making a poster<br />
-- changing many factors at once, so one can’t truly test the effect of the variables<br />
-- trying something, just to see what happens.</p>
-<p>At this point in the <strong>experimentation cycle</strong>, there are more questions than answers and the more questions one asks, the more clarifying answers one will seek on whether an experiment is really needed.</p>
-<p><em>What would experimentation look like in policy or practice? why would an experiment be worth investing in? What data or program performance tracking is already in place? What experimental tools and expertise are available and are they sufficient? What are the risks? What could be a risk management strategy?</em></p>
-<p><strong>Decision tree</strong></p>
-<p>To help make whether an experiment is needed and set one’s direction, the following decision tree from Nesta is a great starting point for a project journey. In this journey, only the two red bubbles refer to an experiment. The rest are only explorations or validations.
-What makes the two red bubbles an experiment? What do they have in common? The two red bubbles focus on the trial and error to find out what works and what doesn’t, which is central to any experimental project.</p>
-<center>
-<img src="fig/decision_tree.jpeg" />
-</center>
-</div>
-<div id="the-experimentation-cycle" class="section level2">
-<h2><span class="header-section-number">1.3</span> The experimentation cycle</h2>
-<blockquote>
-<p>A problem well-stated is half-solved!</p>
-</blockquote>
-<p>To help others understand the problem as we see it, one of the first things an experiment needs is well-framed question and clearly articulated goals. To help formulate the <code>why</code> as well as the <code>what</code>, the following experimentation lifecycle is helpful in that it encourages to reiteratively (1) brainstorm and form vague ideas, (2) group vague ideas, (3) make general observations, (4) hypothesize, (5) determine a model/method to test the hypotheses, (6) do the experiment to test hypothesis, (7) gather data, analyze, and interpret the results, and (8) learn and communicate learnings to stakeholders</p>
-<center>
-<img src="fig/experiment_lifecycle.png" style="width:80.0%" />
-</center>
-<p>This lifecycle presumes that we can:</p>
+<div id="performing-a-literature-review" class="section level1">
+<h1><span class="header-section-number">Chapter 5</span> Performing a literature review</h1>
+<p>In this section, we assume that you have already chosen a research topic and are trying to define and narrow the problem statement for an experiment design.</p>
+<div id="what-is-a-literature-review" class="section level2">
+<h2><span class="header-section-number">5.1</span> What is a literature review?</h2>
+<p>A literature review is firstly a search of what has been published on a topic by accredited scholars and researchers. Occasionally a team may be asked to write a literature review before getting the approvals for doing an experiment. The literature review is often in the form of an annotated bibliography, but may also be part of the introduction to a research report or an organization update. In doing a literature review, your purpose is to find what knowledge and ideas have already been established on a topic, and what their strengths and weaknesses are.
+The literature review is to provide a guiding concept for research and experimentation. Its purpose is to provide a critical written account of the current state of research on a selected topic such that it:</p>
 <ul>
-<li>sketch out what information we need to collect (or already have) to get from a vague idea to the hypothesis stage for a planned project</li>
-<li>get invested in the problem before the solution nor in a particular result (any biases will work against us here)</li>
-<li>not get stuck in a fishing expedition (i.e. grouping ideas forever)</li>
-<li>understand the problem well enough to clearly articulate the goals, questions, and hypotheses before building metrics</li>
-<li>select metrics that will help answer the questions. This can include system parameters, workload parameters, behaviours, etc. <code>“If all you have is a hammer, everything looks like a nail.” - Bernard Baruch</code></li>
-<li>identify parameters that affect behaviour or observations and decide which parameters or interactions to study, or vary.</li>
+<li>Identifies areas of prior scholarship<br />
+</li>
+<li>Places each source in the context of its contribution to the understanding of the specific issue, area of research, or theory under review<br />
+</li>
+<li>Describes the relationship of each source to the others that you have selected<br />
+</li>
+<li>Identifies new ways to interpret, and shed light on any gaps in, previous research
+Points the way forward for further research.</li>
+</ul>
+<p>The hierarchy of literature review steps is depicted in the figure below and can be further broken down into the following steps:</p>
+<ul>
+<li>Define your subject and the scope of the review.</li>
+<li>Search the library catalogue, subject-specific databases, and other search tools to find sources that are relevant to your topic</li>
+<li>Read and evaluate the sources and to determine their suitability to the understanding of the topic at hand</li>
+<li>Analyse, interpret, and discuss the findings and conclusions of the sources you selected.</li>
+</ul>
+<center>
+<img src="fig/lit-review.png" />
+</center>
+<p>Besides enlarging your knowledge about the topic, writing a literature review lets you gain and demonstrate skills in two areas
+- information seeking: the ability to scan the literature efficiently, using manual or computerized methods, to identify a set of useful articles and books
+- critical appraisal: the ability to apply principles of analysis to identify unbiased and valid studies.
+A literature review must do these things</p>
+<p>be organized around and related directly to the thesis or research question you are developing
+synthesize results into a summary of what is and is not known
+identify areas of controversy in the literature
+formulate questions that need further research</p>
+</div>
+<div id="assessing-the-literature-review" class="section level2">
+<h2><span class="header-section-number">5.2</span> Assessing the literature review</h2>
+<p><strong>Ask yourself questions like these:</strong>
+- What is the specific thesis, problem, or research question that my literature review helps to define?<br />
+- What type of literature review am I conducting? Am I looking at issues of theory? methodology? policy? quantitative research (e.g. on the effectiveness of a new procedure)? qualitative research (e.g., studies of loneliness among migrant workers)?<br />
+- What is the scope of my literature review? What types of publications am I using (e.g., journals, books, government documents, popular media)? What discipline am I working in (e.g., nursing psychology, sociology, medicine)?<br />
+- How good was my information seeking? Has my search been wide enough to ensure I’ve found all the relevant material? Has it been narrow enough to exclude irrelevant material? Is the number of sources I’ve used appropriate for the length of my paper?<br />
+- Have I critically analysed the literature I use? Do I follow through a set of concepts and questions, comparing items to each other in the ways they deal with them? Instead of just listing and summarizing items, do I assess them, discussing strengths and weaknesses?<br />
+- Have I cited and discussed studies contrary to my perspective?<br />
+- Will the reader find my literature review relevant, appropriate, and useful?</p>
+<p><strong>Ask yourself questions like these about each book or article you include:</strong>
+- Has the author formulated a problem/issue?<br />
+- Is it clearly defined? Is its significance (scope, severity, relevance) established?<br />
+- Could the problem have been approached more effectively from another perspective?<br />
+- What is the author’s research orientation (e.g., interpretive, critical science, combination)?<br />
+- What is the author’s theoretical framework (e.g., psychological, developmental, feminist)?<br />
+- What is the relationship between the theoretical and research perspectives?<br />
+- Has the author evaluated the literature relevant to the problem/issue? Does the author include literature taking positions she or he does not agree with?<br />
+- Are the author’s arguments supported by empirical evidence (e.g. quantitative/qualitative studies)?<br />
+- Is the author’s perspective too biased in one direction or are opposing studies and viewpoints also considered?<br />
+- What is the author’s expertise in this particular field of study (credentials)?<br />
+- Does the selected source contribute to a more profound understanding of the subject?<br />
+- In a research study, how good are the basic components of the study design (e.g., population, intervention, outcome)? How accurate and valid are the measurements? Is the analysis of the data accurate and relevant to the research question? Are the conclusions validly based upon the data and analysis?<br />
+- In material written for a popular readership, does the author use appeals to emotion, one-sided examples, or rhetorically-charged language and tone? Is there an objective basis to the reasoning, or is the author merely “proving” what he or she already believes?<br />
+- How does the author structure the argument? Can you “deconstruct” the flow of the argument to see whether or where it breaks down logically (e.g., in establishing cause-effect relationships)?<br />
+- In what ways does this book or article contribute to our understanding of the problem under study, and in what ways is it useful for practice? What are the strengths and limitations?<br />
+- How does this book or article relate to the specific thesis or question I am developing?</p>
+</div>
+<div id="components-of-the-literature-review" class="section level2">
+<h2><span class="header-section-number">5.3</span> Components of the literature review</h2>
+<p>The literature review should include the following:</p>
+<ul>
+<li>Objective of the literature review</li>
+<li>Overview of the subject under consideration</li>
+<li>Clear categorization of sources selected into those in support of your particular position, those opposed, and those offering completely different arguments.</li>
+<li>Discussion of both the distinctiveness of each source and its similarities with the others.</li>
 </ul>
 </div>
-<div id="design-considerations" class="section level2">
-<h2><span class="header-section-number">1.4</span> Design considerations</h2>
-<blockquote>
-<p>Don’t land your plane in forests, and don’t do experimental designs before you have considered its drawbacks</p>
-</blockquote>
-<p>It is important to keep in mind that no experimental design is really perfect in that it can consider all aspects of an issue. This is not to discourage us. In a way, George Box’s (British statistician) quote that “All models are wrong, but some are useful” applies to experimental designs as well.
-As long as we remember that one single experimental design cannot be comprehensive and all-encompassing and that it is ok to be specific and clear about limitations. A perfect design doesn’t exist because we cannot possibly control for the many factors and behaviours that may affect a situation.</p>
-<p>Therefore, since all models are wrong to some extent, researchers should check the scope of applicability and limitations of their method/model. We should choose the designs that best answer the research question, and not try to tailor the research question to the method at hand.</p>
-<p>For instance, we may decide to base our tests on a set of observations derived from survey findings and not be aware that survey data can fail in several aspects:
-(1) people act differently when they realize they are under study. If asked about questions on sensitive topics (e.g., homosexuality, immigration, abortion, or Donald Trump), people understand there is a “standard” answer and so, they may hide their true feelings and give socially acceptable answers.
-(2) having a representative sample is difficult and expensive. In social sciences, one of the basis of experiments is recognizing regional diversity (e.g. British Columbia is different from Ontario and Ontario is different from Quebec). This can affect the interpretation of our findings and their generalizability.
-(3) determining the causal relations between two events is usually the goal of experimentation. However, direction of causal inference in social situations can be problematic. Traditional quantitative methods are particularly ill-designed for causal questions when the answer can go in either directions. A solution here is a carefully designed experiment with control groups, more on this later.</p>
-<p>Nevertheless, experiments can produce many types of evidence that can be used in program and policy designs. With sufficient sample sizes, for example, randomised control trials can provide useful evidence through pre- and post-experiment analysis.</p>
-<p>For example, a behavioural insights group examined the effect of nudges on health and wellbeing and demonstrated a massive effect <em>default choices</em> have on organ donation compliance rates. Those
-countries where people are required to opt-out of organ donation report significantly higher consent than those with an opt-in policy (Johnson &amp; Goldstein (2003), Do Defaults Save Lives?, Science, Vol. 302).</p>
-<p>Another example is another group who examined whether manipulating the positon of food on a restaurant
-menu would have any effect on consumer choices. They found that items placed at the beginning or end of the menu were up to twice as popular as when the same items were placed in the centre of the menu (Dayan &amp; Hillel (2011), Nudge to nobesity II: Menu positions influence food orders, Judgment and Decision Making).</p>
+<div id="final-notes" class="section level2">
+<h2><span class="header-section-number">5.4</span> Final Notes:</h2>
+<p>A literature review is a piece of discursive prose, not a list describing or summarizing one piece of literature after another. It’s usually a bad sign to see every paragraph beginning with the name of a researcher. Instead, organize the literature review into sections that present themes or identify trends, including relevant theory. You are not trying to list all the material published but to synthesize and evaluate it according to the guiding concept of your thesis or research question.</p>
+<p>If you are writing an annotated bibliography, you may need to summarize each item briefly, but should still follow through with themes and concepts and do some critical assessment of the material. Use an overall introduction and conclusion to state the scope of your coverage and to formulate the question, problem, or concept your chosen material illuminates. Usually, you will have the option of grouping items into sections—this helps you indicate comparisons and relationships. You may be able to write a paragraph or so to introduce the focus of each section.</p>
+<p>In some government agencies and departments, there are libraries or library services that help with the literature review so you can search for those resources at the experimentation planning stage and perhaps have a dedicated team to perform the literature review before designing the experiment.</p>
+
 </div>
 </div>
             </section>
@@ -220,8 +229,8 @@ menu would have any effect on consumer choices. They found that items placed at 
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="examine-assumptions-and-account-for-pitfalls.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="defining-the-problem.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="developing-a-research-question.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
