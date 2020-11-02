@@ -22,11 +22,11 @@ This  is a repository to house course materials related to module 2 of Governmen
 ![](fig/experimentation-rules.png)
 </center>
 
-I hope this resource will be useful in clarifying **when** to experiment, **which** experiments are useful and **why**, **what** pitfals to consider, as well as simplifying scientific and technological jargon and common misperceptions. As innovators seeking social good, we have a duty to put our ideas to tests of assessments and evaluations to discover what doesn’t work, what does, and find out how to improve people’s lives.
+We hope this resource will be useful in clarifying **when** to experiment, **which** experiments are useful and **why**, **what** pitfals to consider, as well as simplifying scientific and technological jargon and common misperceptions. As innovators seeking social good, we have a duty to put our ideas to tests of assessments and evaluations to discover what doesn’t work, what does, and find out how to improve people’s lives.
 
-I am tremendously grateful for the mentorship I have received from the EW2 leading team (Pierre-Olivier Bedard, Dan Monafu, and Sarah Chan) as well as the graphical design work lead by Jordana Globerman.
+We are tremendously grateful for the mentorship received from the EW2 leading team (Pierre-Olivier Bedard, Dan Monafu, and Sarah Chan) as well as the graphical design work lead by Jordana Globerman.
 
-I will appreciate to know how this course can be improved and what additional topics can be added. I also love to hear how public servants foresee using the experimentation concepts in their projects towards evidence-based transformation of policies, programs, and services. 
+We will also appreciate to know how this course can be improved and what additional topics can be added. We love to hear how public servants foresee using the experimentation concepts in their projects towards evidence-based transformation of policies, programs, and services. 
 
 A big thanks to Preet Chauhan, EW2 expert, for proof-reading and helping with the many examples.
 
