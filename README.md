@@ -80,7 +80,7 @@ The themes explored in this module are:
 - [Experiment components](#experiment-components)
   * [Experiment basics](#experiment-basics)
   
- - [Performing a literature review](#performing-a-literature-review)
+- [Performing a literature review](#performing-a-literature-review)
   * [What is a literature review?](#what-is-a-literature-review-)
   * [Assessing the literature review](#assessing-the-literature-review)
   * [Components of the literature review](#components-of-the-literature-review)
