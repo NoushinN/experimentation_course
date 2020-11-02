@@ -6,6 +6,9 @@ Many have speculated that the exposure to fake news has shaped people’s politi
 
 ## Background research
 
+Your research question is the primary question your project sets out to answer. Or to put it another way, the problem you are trying to solve. Developing the research question is therefore the first step - and one of the most important - in any piece of research. It’s also a task that will come up again and again, because any business research design is cyclical. New questions arise as you iterate and progress through discovering, refining, and improving your products and processes.
+
+
 Recent evidence shows that: 
 
 (1) 62% of US adults get news on social media (Gottfried and Shearer 2016)
@@ -17,12 +20,15 @@ Putting the above observations together, a number of commentators have suggested
 
 ## The problem statement
 
-Did fake news affect the election result by making it more difficult for voters to infer which electoral
-candidate they prefer? 
+The terms “research question” and “research problem” are often used interchangeably. Some researchers think in terms of a single research problem and a number of research questions that arise from it. The questions are lines of enquiry to explore in trying to solve the overarching research problem. A research question has two essential roles in setting your research project on a course for success: 1) set the scope and 2) tie the work with to goals and actions.
+
+E.g. Did fake news affect the election result by making it more difficult for voters to infer which electoral candidate they prefer? 
 
 Hypothesis: Fake news is independent of election outcome
 
 ## Scenarios
+
+The first step is to observe and identify. This often means asking questions and doing some initial investigation to decide which avenues are worth pursuing further. That could mean talking to cross-functional teams across your business, or going outside your organization for additional expertise and contextual information from the wider industry.
 
 In this example, there are three potential causal relationships.
 
@@ -43,8 +49,12 @@ In this example, there are three potential causal relationships.
 ![](fig/scenario3.png){width=80%}
 </center>
 
+
+The second step is to review the key factors involved. To do this you have to identify the factors that will affect the research project and begin formulating different methods to control for them. You also need to consider the relationships between factors and the degree of control you have over them. 
+
 ## Experimental solution
 
+Once you and your research team have a few observations with promise, prioritize them based on their business impact and importance. It may be that you can answer more than one question with a single study, but don’t do it at the risk of losing focus on your overarching research question.
 
 **Stage one**: Recruit and randomly assign participants into treatment and control groups; pre-test.
 
@@ -55,3 +65,10 @@ In this example, there are three potential causal relationships.
 <center>
 ![](fig/stage1.png){width=80%}
 </center>
+
+
+Share this thought experiment with the team and executives and get feedback from the key experts you have identified to make sure everyone is aligned and has the same understanding of the research question and the actions you hope to take based on the results. Now is also a good time to demonstrate the return-on-investment of your research and lay out its potential benefits to your stakeholders. Different groups may have different goals and perspectives on the issue. This step is vital for getting the necessary buy-in and pushing the project forward.
+
+
+
+
